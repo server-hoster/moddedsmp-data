@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starter"
+	group: ""
+	id: "277832DF36A97590"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "69A2F49746A22FE6"
+		rewards: [{
+			count: 16
+			id: "7BE23F3C56B44350"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+			type: "item"
+		}]
+		tasks: [{
+			id: "75CDBB9040379BED"
+			item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: -1.0d
+	}]
+}

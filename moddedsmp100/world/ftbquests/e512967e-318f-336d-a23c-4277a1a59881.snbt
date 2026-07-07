@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "e512967e318f336da23c4277a1a59881"
+	name: "wajdimathlouthi#e512967e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: {
+		0000000000000000: 1783075081314L
+		69A2F49746A22FE6: 1783075081314L
+		0000000000000001: 1783075081314L
+		277832DF36A97590: 1783075081314L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

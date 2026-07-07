@@ -1,0 +1,147 @@
+mod_id,mod_name,mod_version,mod_file,mod_url,display_url,issue_tracker_url
+cyclopscore,Cyclops Core,1.29.1,cyclopscore-1.21.1-neoforge-1.29.1.jar,,,https://github.com/CyclopsMC/CyclopsCore/issues
+betterdungeons,YUNG's Better Dungeons,1.21.1-NeoForge-5.1.4,YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues
+kuma_api,KumaAPI,21.0.8,kuma-api-neoforge-21.0.8+1.21.jar,,https://mods.twelveiterations.com/mc/kuma,https://github.com/TwelveIterationMods/Kuma/issues
+fabric_renderer_api_v1,Forgified Fabric Renderer API (v1),3.4.0+acb05a3919,fabric-renderer-api-v1-3.4.0+acb05a3919.jar,,https://github.com/Sinytra/ForgifiedFabricAPI,https://github.com/Sinytra/ForgifiedFabricAPI/issues
+ftbessentials,FTB Essentials,2101.1.9,ftb-essentials-neoforge-2101.1.9.jar,,,https://go.ftb.team/support-mod-issues
+betterwitchhuts,YUNG's Better Witch Huts,1.21.1-NeoForge-4.1.1,YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Witch-Huts/issues
+artifactscrafting,Artifacts Crafting,1.1.0,artifactscrafting-1.1.0-RPG.jar,,,
+geckolib,GeckoLib 4,4.9.1,geckolib-neoforge-1.21.1-4.9.1.jar,,http://geckolib.com/,https://github.com/bernie-g/geckolib/issues
+playeranimator,Player Animator,2.0.4+1.21.1,player-animation-lib-forge-2.0.4+1.21.1.jar,,https://github.com/KosmX/minecraftPlayerAnimator,
+aether,The Aether,1.5.10,aether-1.21.1-1.5.10-neoforge.jar,,https://modrinth.com/mod/aether,https://github.com/The-Aether-Team/The-Aether/issues
+integratedterminals,IntegratedTerminals,1.7.0,integratedterminals-1.21.1-neoforge-1.7.0.jar,,,https://github.com/CyclopsMC/IntegratedTerminals/issues
+integratedterminalscompat,IntegratedTerminals-Compat,1.0.0,integratedterminals-1.21.1-neoforge-1.7.0.jar,,,https://github.com/CyclopsMC/IntegratedTerminals/issues
+dynamiccrosshair,Dynamic Crosshair,9.11,dynamiccrosshair-9.11+1.21.1-neoforge.jar,,,https://github.com/Crendgrim/DynamicCrosshair/issues
+betteroceanmonuments,YUNG's Better Ocean Monuments,1.21.1-NeoForge-4.1.2,YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Ocean-Monuments/issues
+immersive_aircraft,Immersive Aircraft,1.4.6+1.21.1,immersive_aircraft-1.4.6+1.21.1-neoforge.jar,,https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft,https://github.com/Luke100000/ImmersiveAircraft/issues
+immersive_machinery,Immersive Machinery,0.2.0+1.21.1,immersive_machinery-0.2.0+1.21.1-neoforge.jar,,https://www.curseforge.com/minecraft/mc-mods/immersive-machinery,https://github.com/Luke100000/ImmersiveMachinery/issues
+sophisticatedcore,Sophisticated Core,1.4.62,sophisticatedcore-1.21.1-1.4.62.2079.jar,,https://www.curseforge.com/minecraft/mc-mods/sophisticated-core,https://github.com/P3pp3rF1y/SophisticatedCore/issues
+essentials,Essentials,2.17.5,essentials-2.17.5.jar,,,https://github.com/Crossroads-Development/Essentials/issues
+neoforge,NeoForge,21.1.228,neoforge-21.1.228-universal.jar,,,https://github.com/neoforged/NeoForge/issues
+placebo,Placebo,9.9.1,Placebo-1.21.1-9.9.1.jar,,,
+modernfix,ModernFix,5.27.14+mc1.21.1,modernfix-neoforge-5.27.14+mc1.21.1.jar,,https://modrinth.com/mod/modernfix,https://github.com/embeddedt/ModernFix/issues
+integratedrest,IntegratedREST,1.1.15,integratedrest-1.21.1-neoforge-1.1.15-184.jar,,,https://github.com/CyclopsMC/IntegratedREST/issues
+fabric_block_view_api_v2,Forgified Fabric BlockView API (v2),1.0.10+9afaaf8c19,fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar,,https://github.com/Sinytra/ForgifiedFabricAPI,https://github.com/Sinytra/ForgifiedFabricAPI/issues
+yungsapi,YUNG's API,1.21.1-NeoForge-5.1.6,YungsApi-1.21.1-NeoForge-5.1.6.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge,https://github.com/yungnickyoung/YUNGs-Api/issues
+iris,Iris,1.8.14-beta.1+mc1.21.1,iris-neoforge-1.8.14-beta.1+mc1.21.1.jar,,,
+gravestonecurioscompat,Gravestone Curios Compatibility,4.0.2,gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar,,,
+sophisticatedbackpacks,Sophisticated Backpacks,3.25.64,sophisticatedbackpacks-1.21.1-3.25.64.1933.jar,,https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks,https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues
+nuggets,Nuggets,1.1.0.48,nuggets-neoforge-1.21.1-1.1.0.48.jar,,,
+balm,Balm,21.0.59,balm-neoforge-1.21.1-21.0.59.jar,,https://mods.twelveiterations.com/,https://github.com/TwelveIterations/Balm/issues
+cataclysm_spellbooks,Cataclysm: Spellbooks,1.1.12-1.21,cataclysm_spellbooks-1.1.12-1.21.jar,,,
+chat_heads,Chat Heads,0.15.2,chat_heads-0.15.2-neoforge-1.21.jar,,,https://github.com/dzwdz/chat_heads/issues
+baguettelib,BaguetteLib,2.0.3,baguettelib-1.21.1-NeoForge-2.0.3.jar,,,
+betterfortresses,YUNG's Better Nether Fortresses,1.21.1-NeoForge-3.1.5,YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Fortresses/issues
+cloth_config,Cloth Config v15 API,15.0.140,cloth-config-15.0.140-neoforge.jar,,,https://github.com/architectury/ClothConfig/issues/
+fzzy_config,Fzzy Config,0.7.6+1.21+neoforge,fzzy_config-0.7.6+1.21+neoforge.jar,,,https://github.com/fzzyhmstrs/fconfig/issues
+create_connected,Create: Connected,1.3.2-mc1.21.1,create_connected-1.3.2-mc1.21.1.jar,,https://github.com/hlysine/create_connected,https://github.com/hlysine/create_connected/issues
+aces_spell_utils,Ace's Spell Utils,1.2.6.1-1.21.1,aces_spell_utils-1.2.6.1-1.21.1.jar,,,
+commoncapabilities,CommonCapabilities,2.11.5,commoncapabilities-1.21.1-neoforge-2.11.5.jar,,,https://github.com/CyclopsMC/CommonCapabilities/issues
+getittogetherdrops,Get It Together, Drops!,1.4,getittogetherdrops-neoforge-1.21.5-1.4.jar,,https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops,https://github.com/bl4ckscor3/GetItTogetherDrops/issues
+explorify,Explorify,1.6.5,Explorify v1.6.5.mod.jar,,https://modrinth.com/datapack/explorify,
+chunky,Chunky,1.4.23,Chunky-NeoForge-1.4.23.jar,,https://github.com/pop4959/Chunky,https://github.com/pop4959/Chunky/issues
+yungsbridges,YUNG's Bridges,1.21.1-NeoForge-5.1.1,YungsBridges-1.21.1-NeoForge-5.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-neoforge,https://github.com/yungnickyoung/YUNGs-Bridges/issues
+apothic_attributes,Apothic Attributes,2.9.1,ApothicAttributes-1.21.1-2.9.1.jar,,,
+dynamiccrosshairapi,Dynamic Crosshair API,1.2,dynamiccrosshair-api-9.11+1.21.1-neoforge.jar,,,https://github.com/Crendgrim/DynamicCrosshair/issues
+servercore,ServerCore,1.5.19+1.21.1,servercore-neoforge-1.5.19+1.21.1.jar,,https://github.com/Wesley1808/ServerCore,https://github.com/Wesley1808/ServerCore/issues
+lionfishapi,lionfishapi,3.0,lionfishapi-3.0.jar,,,
+integratedscripting,IntegratedScripting,1.0.22,integratedscripting-1.21.1-neoforge-1.0.22-373.jar,,,https://github.com/CyclopsMC/IntegratedScripting/issues
+spark,spark,1.10.124,spark-1.10.124-neoforge.jar,,,
+cataclysm,L_Ender's Cataclysm 1.21.1,3.31-optimaztion,L_Ender's Cataclysm 1.21.1-3.31-optimaztion.jar,,,
+curios,Curios API,9.5.1+1.21.1,curios-neoforge-9.5.1+1.21.1.jar,,https://github.com/TheIllusiveC4/Curios,https://github.com/TheIllusiveC4/Curios/issues
+patchouli,Patchouli,1.21.1-93-NEOFORGE,Patchouli-1.21.1-93-NEOFORGE.jar,,,https://github.com/VazkiiMods/Patchouli
+sophisticatedstoragecreateintegration,Sophisticated Storage Create Integration,0.1.17,sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar,,https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage-create-integration,https://github.com/P3pp3rF1y/SophisticatedStorageCreateIntegration/issues
+yungsextras,YUNG's Extras,1.21.1-NeoForge-5.1.1,YungsExtras-1.21.1-NeoForge-5.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-extras-neoforge,https://github.com/yungnickyoung/YUNGs-Extras/issues
+integratedtunnels,IntegratedTunnels,1.9.4,integratedtunnels-1.21.1-neoforge-1.9.4-632.jar,,,https://github.com/CyclopsMC/IntegratedTunnels/issues
+integratedtunnelscompat,IntegratedTunnels-Compat,1.9.4,integratedtunnels-1.21.1-neoforge-1.9.4-632.jar,,,https://github.com/CyclopsMC/IntegratedTunnels/issues
+noisium,Noisium,2.7.0+mc1.21-1.21.1,noisium-neoforge-2.7.0+mc1.21-1.21.1.jar,,https://github.com/Steveplays28/noisium,https://github.com/Steveplays28/noisium/issues
+betterstrongholds,YUNG's Better Strongholds,1.21.1-NeoForge-5.1.3,YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues
+accessories,Accessories,1.1.0-beta.48+1.21.1,accessories-neoforge-1.1.0-beta.48+1.21.1.jar,,,
+cumulus_menus,Cumulus,2.0.7,cumulus_menus-1.21.1-2.0.7-neoforge.jar,,https://modrinth.com/mod/cumulus,https://github.com/The-Aether-Team/Cumulus/issues
+deeperdarker,Deeper and Darker,1.4.1,deeperdarker-neoforge-1.21.1-1.4.1.jar,,,https://github.com/KyaniteMods/DeeperAndDarker/issues
+architectury,Architectury,13.0.8,architectury-13.0.8-neoforge.jar,,,https://github.com/shedaniel/architectury/issues
+simplytooltips,Simply Tooltips,0.1.3,SimplyTooltips-neoforge-0.1.3.jar,,,
+apothic_enchanting,Apothic Enchanting,1.5.3,ApothicEnchanting-1.21.1-1.5.3.jar,,,
+betterendisland,YUNG's Better End Island,1.21.1-NeoForge-3.1.2,YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-neoforge,https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues
+dynamic_fps,Dynamic FPS,3.11.4,dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar,https://dapprgames.com/mods,https://dapprgames.com/mods,https://github.com/juliand665/Dynamic-FPS/issues
+fabric_rendering_data_attachment_v1,Forgified Fabric Rendering Data Attachment (v1),0.3.48+73761d2e19,fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar,,https://github.com/Sinytra/ForgifiedFabricAPI,https://github.com/Sinytra/ForgifiedFabricAPI/issues
+nitrogen_internals,Nitrogen,1.1.25,nitrogen_internals-1.21.1-1.1.25-neoforge.jar,,https://github.com/The-Aether-Team/Nitrogen,https://github.com/The-Aether-Team/Nitrogen/issues
+toms_storage,Tom's Simple Storage Mod,2.3.2,toms_storage-1.21-2.3.2.jar,,https://www.curseforge.com/minecraft/mc-mods/toms-storage,https://github.com/tom5454/Toms-Storage/issues
+infiniverse,Infiniverse,2.0.1.0,infiniverse-568341-5486311.jar,,https://www.curseforge.com/minecraft/mc-mods/infiniverse,https://github.com/Commoble/infiniverse/issues
+bettermineshafts,YUNG's Better Mineshafts,1.21.1-NeoForge-5.1.1,YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues
+villagerinabucket,Villager In A Bucket,1.21.1-1.1.1,villagerinabucket-neoforge-1.21.1-1.1.1.jar,,,https://github.com/JustDoom/VillagerInABucket/issues
+betterjungletemples,YUNG's Better Jungle Temples,1.21.1-NeoForge-3.1.2,YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Jungle-Temples/issues
+rhino,Rhino,2101.2.7-build.85,rhino-2101.2.7-build.85.jar,https://kubejs.com,https://kubejs.com,https://kubejs.com/support?source=rhino&mc=2101&loader=neoforge
+owo,oωo,0.12.15.5-beta.1+1.21,owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar,,,
+trashslot,TrashSlot,21.1.11,trashslot-neoforge-1.21.1-21.1.11.jar,,https://mods.twelveiterations.com/minecraft/trashslot,https://github.com/TwelveIterations/TrashSlot/issues
+ftblibrary,FTB Library,2101.1.32,ftb-library-neoforge-2101.1.32.jar,,,https://go.ftb.team/support-mod-issues
+ftbteams,FTB Teams,2101.1.10,ftb-teams-neoforge-2101.1.10.jar,,,https://go.ftb.team/support-mod-issues
+sophisticatedstorage,Sophisticated Storage,1.5.65,sophisticatedstorage-1.21.1-1.5.65.1903.jar,,https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage,https://github.com/P3pp3rF1y/SophisticatedStorage/issues
+copycats,Create: Copycats+,3.0.4+mc.1.21.1-neoforge,copycats-3.0.4+mc.1.21.1-neoforge.jar,,https://github.com/copycats-plus/copycats,https://github.com/copycats-plus/copycats/issues
+jei,Just Enough Items,19.27.0.343,jei-1.21.1-neoforge-19.27.0.343.jar,,https://www.curseforge.com/minecraft/mc-mods/jei,https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue
+kubejs,KubeJS,2101.7.2-build.368,kubejs-neoforge-2101.7.2-build.368.jar,https://kubejs.com,https://kubejs.com,https://kubejs.com/support?source=kubejs&mc=2101&loader=neoforge
+lithostitched,Lithostitched,1.7.12,lithostitched-1.7.12-neoforge-21.1.jar,,,
+irons_lib,Iron's Lib,1.21.1-1.1.0,irons_lib-1.21.1-1.1.0.jar,,,
+lithium,Lithium,0.15.4+mc1.21.1,lithium-neoforge-0.15.4+mc1.21.1.jar,,,
+mekanism,Mekanism,10.7.19,Mekanism-1.21.1-10.7.19.85.jar,,https://aidancbrady.com/mekanism/,https://github.com/mekanism/Mekanism/issues
+mekanismgenerators,Mekanism: Generators,10.7.19,MekanismGenerators-1.21.1-10.7.19.85.jar,,https://aidancbrady.com/mekanism/,https://github.com/mekanism/Mekanism/issues
+mekanismadditions,Mekanism: Additions,10.7.19,MekanismAdditions-1.21.1-10.7.19.85.jar,,https://aidancbrady.com/mekanism/,https://github.com/mekanism/Mekanism/issues
+mekanismtools,Mekanism: Tools,10.7.19,MekanismTools-1.21.1-10.7.19.85.jar,,https://aidancbrady.com/mekanism/,https://github.com/mekanism/Mekanism/issues
+libbamboo,LibBamboo,2.25,libbamboo-2.25+1.21.1-neoforge.jar,,,
+waystones,Waystones,21.1.34,waystones-neoforge-1.21.1-21.1.34.jar,,https://mods.twelveiterations.com/minecraft/waystones,https://github.com/TwelveIterations/Waystones/issues
+clumps,Clumps,19.0.0.1,Clumps-neoforge-1.21.1-19.0.0.1.jar,,https://www.curseforge.com/minecraft/mc-mods/clumps,https://github.com/jaredlll08/Clumps/issues
+comforts,Comforts,9.0.5+1.21.1,comforts-neoforge-9.0.5+1.21.1.jar,,https://github.com/illusivesoulworks/comforts,https://github.com/illusivesoulworks/comforts/issues
+naturescompass,Nature's Compass,1.21.1-3.4.0-neoforge,NaturesCompass-1.21.1-3.4.0-neoforge.jar,,https://github.com/MattCzyr/NaturesCompass,https://github.com/MattCzyr/NaturesCompass/issues
+artifacts,Artifacts,13.2.1,artifacts-neoforge-13.2.1.jar,,https://www.curseforge.com/minecraft/mc-mods/artifacts,https://github.com/ochotonida/artifacts/issues
+glitchcore,GlitchCore,2.1.0.2,GlitchCore-neoforge-1.21.1-2.1.0.2.jar,,,https://github.com/Glitchfiend/GlitchCore/issues
+sereneseasons,Serene Seasons,10.1.0.3,SereneSeasons-neoforge-1.21.1-10.1.0.3.jar,,,https://github.com/Glitchfiend/SereneSeasons/issues
+craterlib,CraterLib,3.1.2,CraterLib-Neoforge-1.21-3.1.2.jar,,https://modrinth.com/mod/craterlib,https://github.com/firstdarkdev/craterLib/issues
+betterdeserttemples,YUNG's Better Desert Temples,1.21.1-NeoForge-4.1.5,YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar,,https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-neoforge,https://github.com/yungnickyoung/YUNGs-Better-Desert-Temples/issues
+guideme,GuideME,21.1.16,guideme-21.1.16.jar,,https://github.com/AppliedEnergistics/GuideME/,
+explorerscompass,Explorer's Compass,1.21.1-3.4.0-neoforge,ExplorersCompass-1.21.1-3.4.0-neoforge.jar,,https://github.com/MattCzyr/ExplorersCompass,https://github.com/MattCzyr/ExplorersCompass/issues
+azurelib,AzureLib,3.1.10,azurelib-neo-1.21.1-3.1.10.jar,,https://modrinth.com/mod/azurelib,https://github.com/AzureDoom/AzureLib/issues
+ars_nouveau,Ars Nouveau,5.12.0,ars_nouveau-1.21.1-5.12.0.jar,,,https://github.com/baileyholl/Ars-Nouveau
+ftbchunks,FTB Chunks,2101.1.20,ftb-chunks-neoforge-2101.1.20.jar,,,https://go.ftb.team/support-mod-issues
+crossroads,Crossroads,1.21.1-2.11.7,crossroads-1.21.1-2.11.7.jar,,,https://github.com/Da-Technomancer/Crossroads
+sophisticatedbackpackscreateintegration,Sophisticated Backpacks Create Integration,0.1.7,sophisticatedbackpackscreateintegration-1.21.1-0.1.7.119.jar,,https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-create-integration,https://github.com/P3pp3rF1y/SophisticatedBackpacksCreateIntegration/issues
+auto_restart,Auto Restart,3.0.1,AutoRestart-1.21.1-3.0.1.jar,,https://www.curseforge.com/minecraft/mc-mods/auto-restart,https://github.com/GeheimagentNr1/AutoRestart/issues
+integratedcrafting,IntegratedCrafting,1.4.6,integratedcrafting-1.21.1-neoforge-1.4.6.jar,,,https://github.com/CyclopsMC/IntegratedCrafting/issues
+tectonic,Tectonic,3.0.22,tectonic-3.0.22-neoforge-21.1.jar,,https://modrinth.com/project/tectonic,https://github.com/Apollounknowndev/tectonic/issues
+minecraft,Minecraft,1.21.1,server-1.21.1-20240808.144430-srg.jar,,,
+arcaneessenceblock,ArcaneEssenceBlock,1.0.0,arcaneessenceblock-1.0.1-neoforge-1.21.1.jar,,https://mcreator.net,
+simplebackups,Simple Backups,1.21-4.0.30,SimpleBackups-1.21-4.0.30.jar,,https://github.com/ChaoticTrials/SimpleBackups,https://github.com/ChaoticTrials/SimpleBackups/issues
+voicechat,Simple Voice Chat,1.21.1-2.6.20,voicechat-neoforge-1.21.1-2.6.20.jar,,https://modrepo.de/minecraft/voicechat/overview,https://github.com/henkelmax/simple-voice-chat/issues
+voicechat_api,Simple Voice Chat API,2.6.20,voicechat-neoforge-1.21.1-2.6.20.jar,,https://voicechat.modrepo.de/,https://github.com/henkelmax/simple-voice-chat/issues
+simplyswords,Simply Swords,1.63.0-1.21.1,simplyswords-neoforge-1.63.0-1.21.1.jar,,,https://github.com/Sweenus/SimplySwords/issues
+terrablender,TerraBlender,4.1.0.8,TerraBlender-neoforge-1.21.1-4.1.0.8.jar,,,https://github.com/Glitchfiend/TerraBlender/issues
+biomesoplenty,Biomes O' Plenty,21.1.0.14,BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar,,,https://github.com/Glitchfiend/BiomesOPlenty/issues
+apothic_spawners,Apothic Spawners,1.3.4,ApothicSpawners-1.21.1-1.3.4.jar,,,
+apotheosis,Apotheosis,8.5.4,Apotheosis-1.21.1-8.5.4.jar,,https://www.curseforge.com/minecraft/mc-mods/apotheosis,
+fabric_api_base,Forgified Fabric API Base,0.4.42+d1308dedd1,fabric-api-base-0.4.42+d1308dedd1.jar,,https://github.com/Sinytra/ForgifiedFabricAPI,https://github.com/Sinytra/ForgifiedFabricAPI/issues
+regions_unexplored,Regions Unexplored,0.6.1,regions-unexplored-0.6.1-neoforge-21.1.jar,,https://modrinth.com/mod/regions-unexplored,https://github.com/Apollounknowndev/RegionsUnexplored/issues
+ftbquests,FTB Quests,2101.1.27,ftb-quests-neoforge-2101.1.27.jar,,,https://github.com/FTBTeam/FTB-Mods-Issues/issues
+ftbxmodcompat,FTB XMod Compat,21.1.8,ftb-xmod-compat-neoforge-21.1.8.jar,,,
+immersiveengineering,Immersive Engineering,12.4.2-194,ImmersiveEngineering-1.21.1-12.4.2-194.jar,,https://minecraft.curseforge.com/projects/immersive-engineering/,https://github.com/BluSunrize/ImmersiveEngineering/issues
+jade,Jade,15.10.5+neoforge,Jade-1.21.1-NeoForge-15.10.5.jar,,https://www.curseforge.com/minecraft/mc-mods/jade,
+ae2,Applied Energistics 2,19.2.17,appliedenergistics2-19.2.17.jar,,https://appliedenergistics.org,https://github.com/AppliedEnergistics/Applied-Energistics-2/issues
+spectrelib,SpectreLib,0.17.2+1.21,spectrelib-neoforge-0.17.2+1.21.jar,,https://github.com/illusivesoulworks/spectrelib,https://github.com/illusivesoulworks/spectrelib/issues
+corgilib,CorgiLib,5.0.0.9,Corgilib-NeoForge-1.21.1-5.0.0.9.jar,,https://github.com/CorgiTaco/CorgiLib,https://github.com/CorgiTaco/CorgiLib/issues
+ksyxis,Ksyxis,1.4.3,Ksyxis-1.4.3.jar,,https://modrinth.com/mod/ksyxis,https://github.com/VidTu/Ksyxis/issues
+kotlinforforge,Kotlin For Forge,5.12.0,thedarkcolour.kffmod-5.12.0.jar,,,
+sablecompanion,Sable Companion,1.6.0,sable-companion-common-1.21.1-1.6.0.jar,,,https://github.com/ryanhcode/sable-companion/issues
+flywheel,Flywheel,1.0.6,flywheel-neoforge-1.21.1-1.0.6.jar,,https://github.com/Engine-Room/Flywheel,https://github.com/Engine-Room/Flywheel/issues
+ponder,Ponder,1.0.82+mc1.21.1,ponder-neoforge-1.0.82+mc1.21.1.jar,,https://github.com/Creators-of-Create/Ponder,https://github.com/Creators-of-Create/Ponder/issues
+create,Create,6.0.10,create-1.21.1-6.0.10.jar,,https://www.curseforge.com/minecraft/mc-mods/create,https://github.com/Creators-of-Create/Create/issues
+integrateddynamics,IntegratedDynamics,1.33.3,integrateddynamics-1.21.1-neoforge-1.33.3.jar,,,https://github.com/CyclopsMC/IntegratedDynamics/issues
+integrateddynamicscompat,IntegratedDynamics-Compat,1.0.0,integrateddynamics-1.21.1-neoforge-1.33.3.jar,,,https://github.com/CyclopsMC/IntegratedDynamics/issues
+gravestone,Gravestone Mod,1.21.1-1.0.37,gravestone-neoforge-1.21.1-1.0.37.jar,,https://www.curseforge.com/minecraft/mc-mods/gravestone-mod,https://github.com/henkelmax/gravestone/issues
+irons_spellbooks,Iron's Spells 'n Spellbooks,1.21.1-3.16.1,irons_spellbooks-1.21.1-3.16.1.jar,,https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks,https://github.com/iron431/Irons-Spells-n-Spellbooks/issues
+immediatelyfast,ImmediatelyFast,1.6.10+1.21.1,ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar,,,https://github.com/RaphiMC/ImmediatelyFast/issues
+lambdynlights_api,LambDynamicLights (API),4.5.1+1.21.1,lambdynamiclights-api-4.5.1+1.21.1-mojmap.jar,,https://lambdaurora.dev/projects/lambdynamiclights,https://github.com/LambdAurora/LambDynamicLights/issues
+betteradvancedtooltips,Better Advanced Tooltips,2101.1.0-build.1,better-advanced-tooltips-2101.1.0-build.1.jar,,,
+lootr,Lootr,1.21.1-1.11.37.121,lootr-neoforge-1.21.1-1.11.37.121.jar,,https://minecraft.curseforge.com/projects/lootr,https://github.com/noobanidus/Lootr/issues
+ferritecore,Ferrite Core,7.0.3,ferritecore-7.0.3-neoforge.jar,,,
+arclight,Arclight Mod,1.0.2-SNAPSHOT+0769551,arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar,,,
+more_curios_slots,More Curios Slots,1.4,more_curios_slots-1.4.jar,,,
+expandability,ExpandAbility,12.0.0,expandability-neoforge-12.0.0.jar,,,https://github.com/florensie/expandability/issues
+cristellib,Cristel Lib,3.1.7,cristellib-neoforge-1.21.1-3.1.7.jar,,https://modrinth.com/mod/cristel-lib,

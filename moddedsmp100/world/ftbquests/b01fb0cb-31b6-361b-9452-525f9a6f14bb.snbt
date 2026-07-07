@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "b01fb0cb31b6361b9452525f9a6f14bb"
+	name: "smoothi_07#b01fb0cb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

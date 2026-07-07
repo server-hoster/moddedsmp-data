@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "09896fcb69c73d8e88de41c34c2b09f7"
+	name: "manchester11fan#09896fcb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

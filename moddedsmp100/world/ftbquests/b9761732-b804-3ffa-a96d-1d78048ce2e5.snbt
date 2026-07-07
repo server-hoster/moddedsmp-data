@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "b9761732b8043ffaa96d1d78048ce2e5"
+	name: "DrDNuts#b9761732"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
