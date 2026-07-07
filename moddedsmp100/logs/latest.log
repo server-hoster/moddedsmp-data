@@ -290,3 +290,15 @@
 [07Jul2026 12:21:08.196] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [07Jul2026 12:25:09.025] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [07Jul2026 12:29:09.835] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[07Jul2026 12:32:51.897] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.224:58956, peerAddr=144.172.67.4:36294, claimAddress=69.9.181.2:43783, claimToken=[44, 0, 110, -109, -71, -35, -32, -26, 76, -112, -84, 67, 4, -115, -58, 47, -120, -74, 9, -85, 7, 106, 76, -15, -13, 0, 0, 0, 0, 0, 37, 95, 75, 0, 0, 0, 0, 0, 97, -126, -100, 0, 0, 0, 0, 0, 63, -128, -115, -68, -30, -85, 7, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0, 8, 0, 40, 37, 0, 47, 31, 99, 111, 109, 109, 117, 110, 105, 99, 97, 116, 105, 111, 110, 115, 45, 109, 114, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, -26, 76, 1, 1, 0, -10, -107, -58, 125, -119, 64, 44, 60, 114, -109, 72, 95, -8, -121, 98, -121], tunnelServerId=0, tunnelId=4161677, dataCenterId=2, portOffset=0}
+[07Jul2026 12:32:51.897] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: starting tcp tunnel for client
+[07Jul2026 12:32:51.898] [Thread-14/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: start connection to /69.9.181.2:43783 to claim client
+[07Jul2026 12:32:51.913] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[07Jul2026 12:32:51.914] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: claim token sent
+[07Jul2026 12:32:51.922] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connection to tunnel server has been established
+[07Jul2026 12:32:51.923] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[07Jul2026 12:32:51.927] [nioEventLoopGroup-2-2/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connected to local minecraft server
+[07Jul2026 12:32:51.938] [Netty Epoll Server IO #3/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: parsed playit header, true client IP: /144.172.67.4:36294
+[07Jul2026 12:32:51.984] [Netty Epoll Server IO #3/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: updated connection address on handler: packet_handler
+[07Jul2026 12:33:09.964] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[07Jul2026 12:37:10.795] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
