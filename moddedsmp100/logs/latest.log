@@ -1099,3 +1099,15 @@ Caused by: java.lang.ClassNotFoundException: Plugin MCWebBridge cannot load clas
 [08Jul2026 08:52:15.703] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [08Jul2026 08:56:16.514] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [08Jul2026 09:00:17.316] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[08Jul2026 09:03:42.239] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.224:58956, peerAddr=144.172.67.4:49736, claimAddress=69.9.181.2:43783, claimToken=[44, 0, 108, -109, -71, -35, -32, -26, 76, -112, -84, 67, 4, -62, 72, -96, -80, 93, 2, -85, 7, 106, 78, 18, 110, 0, 0, 0, 0, 0, 37, 95, 75, 0, 0, 0, 0, 0, 97, -126, -100, 0, 0, 0, 0, 0, 63, -128, -115, 54, -35, -85, 7, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 0, 38, 37, 0, 47, 31, 99, 111, 109, 109, 117, 110, 105, 99, 97, 116, 105, 111, 110, 115, 45, 109, 114, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, -26, 76, 1, -85, 61, 12, 33, 59, 29, -111, 26, 101, 37, -122, 4, -16, -126, 37, -5], tunnelServerId=0, tunnelId=4161677, dataCenterId=2, portOffset=0}
+[08Jul2026 09:03:42.239] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: starting tcp tunnel for client
+[08Jul2026 09:03:42.239] [Thread-14/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: start connection to /69.9.181.2:43783 to claim client
+[08Jul2026 09:03:42.248] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[08Jul2026 09:03:42.248] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: claim token sent
+[08Jul2026 09:03:42.255] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connection to tunnel server has been established
+[08Jul2026 09:03:42.255] [nioEventLoopGroup-2-1/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[08Jul2026 09:03:42.256] [nioEventLoopGroup-2-2/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: connected to local minecraft server
+[08Jul2026 09:03:42.257] [Netty Epoll Server IO #1/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: parsed playit header, true client IP: /144.172.67.4:49736
+[08Jul2026 09:03:42.257] [Netty Epoll Server IO #1/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: updated connection address on handler: packet_handler
+[08Jul2026 09:04:18.353] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[08Jul2026 09:08:19.153] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
