@@ -1141,3 +1141,6 @@ Caused by: java.lang.ClassNotFoundException: Plugin MCWebBridge cannot load clas
 [08Jul2026 10:26:53.890] [Netty Epoll Server IO #2/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: parsed playit header, true client IP: /144.172.67.4:38770
 [08Jul2026 10:26:53.891] [Netty Epoll Server IO #2/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: updated connection address on handler: packet_handler
 [08Jul2026 10:28:36.203] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[08Jul2026 10:32:37.018] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[08Jul2026 10:36:37.818] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[08Jul2026 10:40:38.614] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
