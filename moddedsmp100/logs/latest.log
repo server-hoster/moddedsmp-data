@@ -1116,3 +1116,19 @@ Caused by: java.lang.ClassNotFoundException: Plugin MCWebBridge cannot load clas
 [10Jul2026 17:33:18.206] [Netty Epoll Server IO #0/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: parsed playit header, true client IP: /165.49.30.242:50193
 [10Jul2026 17:33:18.206] [Netty Epoll Server IO #0/INFO] [gg.playit.minecraft.PlayitHeaderDecoder/]: updated connection address on handler: packet_handler
 [10Jul2026 17:35:48.692] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:39:49.519] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:43:50.340] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:47:51.154] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:51:51.964] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:55:52.781] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 17:59:53.600] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:03:54.420] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:07:55.250] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:11:56.067] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:15:56.879] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:19:57.695] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:23:58.527] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:27:59.347] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:32:00.159] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:36:00.972] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 18:40:01.797] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
