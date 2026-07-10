@@ -1,130 +1,1059 @@
-[10Jul2026 00:02:37.166] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:06:37.969] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:10:38.780] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:14:39.578] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:18:40.377] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:22:41.176] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:26:41.981] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:30:42.777] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:34:43.576] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:38:44.376] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:42:45.176] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:46:45.976] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:50:46.777] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:54:47.577] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 00:58:48.377] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:02:49.177] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:06:49.980] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:10:50.776] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:14:51.577] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:18:52.378] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:22:53.176] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:26:53.976] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:30:54.779] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:34:55.580] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:38:56.379] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:42:57.176] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:46:57.977] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:50:58.787] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:54:59.587] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 01:59:00.388] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:03:01.186] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:07:01.987] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:11:02.806] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:15:03.619] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:19:04.416] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:23:05.236] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:27:06.036] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:31:06.836] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:35:07.642] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:39:08.437] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:43:09.240] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:47:10.054] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:51:10.868] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:55:11.670] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 02:59:12.476] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:03:13.277] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:07:14.086] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:11:14.886] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:15:15.696] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:19:16.497] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:23:17.306] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:27:18.121] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:31:18.917] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:35:19.728] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:39:20.539] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:43:21.346] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:47:22.166] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:51:22.966] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:55:23.778] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 03:59:24.586] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:03:25.413] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:07:26.217] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:11:27.019] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:15:27.828] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:19:28.626] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:23:29.436] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:27:30.256] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:31:31.056] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:35:31.881] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:39:32.696] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:43:33.507] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:47:34.319] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:51:35.126] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:55:35.928] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 04:59:36.730] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:03:37.547] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:07:38.363] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:11:39.183] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:15:39.986] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:19:40.823] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:23:41.622] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:27:42.419] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:31:43.217] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:35:44.026] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:39:44.833] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:43:45.626] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:47:46.438] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:51:47.248] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:55:48.066] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 05:59:48.888] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:03:49.691] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:07:50.506] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:11:51.313] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:15:52.116] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:19:52.936] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:23:53.739] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:27:54.536] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:31:55.359] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:35:56.157] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:39:56.977] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:43:57.786] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:47:58.596] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:51:59.409] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 06:56:00.216] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:00:01.039] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:04:01.857] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:08:02.666] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:12:03.477] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:16:04.295] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:20:05.119] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:24:05.942] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:28:06.760] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:32:07.587] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:36:08.399] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:40:09.223] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:44:10.037] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:48:10.848] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:52:11.678] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 07:56:12.488] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 08:00:13.316] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 08:04:14.137] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
-[10Jul2026 08:05:57.729] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.224:58956, peerAddr=144.172.67.4:37566, claimAddress=69.9.181.2:43783, claimToken=[44, 0, 110, -109, -71, -35, -32, -26, 76, -112, -84, 67, 4, -110, -66, 46, 127, 125, -49, -85, 7, 106, 80, -89, -27, 0, 0, 0, 0, 0, 37, 95, 75, 0, 0, 0, 0, 0, 97, -126, -100, 0, 0, 0, 0, 0, 63, -128, -115, 120, -88, -85, 7, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0, 7, 0, 40, 37, 0, 47, 31, 99, 111, 109, 109, 117, 110, 105, 99, 97, 116, 105, 111, 110, 115, 45, 109, 114, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, -26, 76, 1, 1, 0, -33, -34, -94, -45, 69, -37, 124, -33, -70, 102, -121, 45, -11, 17, -124, -74], tunnelServerId=0, tunnelId=4161677, dataCenterId=2, portOffset=0}
-[10Jul2026 08:05:57.743] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: starting tcp tunnel for client
-[10Jul2026 08:05:58.431] [Thread-14/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: start connection to /69.9.181.2:43783 to claim client
-[10Jul2026 08:06:28.731] [nioEventLoopGroup-2-1/WARN] [gg.playit.minecraft.PlayitTcpTunnel/]: failed to establish connection to tunnel claim/69.9.181.2:43783
-[10Jul2026 08:06:54.059] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.224:58956, peerAddr=144.172.67.4:55296, claimAddress=69.9.181.2:43783, claimToken=[44, 0, 116, -109, -71, -35, -32, 99, -35, -112, -84, 67, 4, -40, 0, 39, 24, -3, -6, -85, 7, 106, 80, -88, 30, 0, 0, 0, 0, 0, 37, 95, 75, 0, 0, 0, 0, 0, 97, -126, -100, 0, 0, 0, 0, 0, 63, -128, -115, -100, -44, -85, 7, 1, 4, -109, -71, -35, -32, -26, 76, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 39, 36, 0, 47, 30, 99, 111, 109, 109, 117, 110, 105, 99, 97, 116, 105, 111, 110, 115, 45, 109, 114, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 99, -35, 1, 1, 0, -52, 63, 95, 19, 95, 18, -69, 65, 9, -5, -80, 66, -48, -48, 83, -103], tunnelServerId=0, tunnelId=4161677, dataCenterId=2, portOffset=0}
-[10Jul2026 08:06:54.059] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: starting tcp tunnel for client
-[10Jul2026 08:06:54.059] [Thread-14/INFO] [gg.playit.minecraft.PlayitTcpTunnel/]: start connection to /69.9.181.2:43783 to claim client
-[10Jul2026 08:07:24.089] [nioEventLoopGroup-2-2/WARN] [gg.playit.minecraft.PlayitTcpTunnel/]: failed to establish connection to tunnel claim/69.9.181.2:43783
-[10Jul2026 08:08:15.336] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 08:09:30.737] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 诸王 (Feudal Kings) / arclight-1.21.1-1.0.2-SNAPSHOT-0769551
+    Build Date 2026-05-09 08:50:30
+
+[10Jul2026 08:09:30.775] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.neoForgeVersion, 21.1.228, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[10Jul2026 08:09:30.776] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.11+10-LTS
+[10Jul2026 08:09:30.777] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.11 by Eclipse Adoptium; OS Linux arch amd64 version 6.12.90-120.164.amzn2023.x86_64
+[10Jul2026 08:09:31.523] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[10Jul2026 08:09:31.595] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/home/ubuntu/workspace/moddedsmp-data/moddedsmp100/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%23105!/ Service=ModLauncher Env=SERVER
+[10Jul2026 08:09:34.104] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 60 dependencies adding them to mods collection
+[10Jul2026 08:09:34.107] [main/INFO] [ArclightJiJ/]: Skip jij dependency org.yaml.snakeyaml@null because Arclight has org.yaml.snakeyaml@2.2
+[10Jul2026 08:09:34.111] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Accessories 1.1.0-beta.48+1.21.1 (accessories)
+		Ace's Spell Utils 1.2.6.1-1.21.1 (aces_spell_utils)
+		Apotheosis 8.5.4 (apotheosis)
+		Apothic Attributes 2.9.1 (apothic_attributes)
+		Apothic Enchanting 1.5.3 (apothic_enchanting)
+		Apothic Spawners 1.3.4 (apothic_spawners)
+		Applied Energistics 2 19.2.17 (ae2)
+		ArcaneEssenceBlock 1.0.0 (arcaneessenceblock)
+		Architectury 13.0.8 (architectury)
+		Arclight Mod 1.0.2-SNAPSHOT+0769551 (arclight)
+		Ars 'n' Spells 2.5.0 (ars_n_spells)
+		Ars Additions 1.21.1-21.3.0 (ars_additions)
+		Ars Elemental 0.7.10.0 (ars_elemental)
+		Ars Nouveau 5.12.0 (ars_nouveau)
+		Artifacts 13.2.1 (artifacts)
+		Artifacts Crafting 1.1.0 (artifactscrafting)
+		Auto Restart 3.0.1 (auto_restart)
+		AzureLib 3.1.10 (azurelib)
+		BaguetteLib 2.0.3 (baguettelib)
+		Balm 21.0.59 (balm)
+		Better Advanced Tooltips 2101.1.0-build.1 (betteradvancedtooltips)
+		Biomes O' Plenty 21.1.0.14 (biomesoplenty)
+		Cataclysm: Spellbooks 1.1.12-1.21 (cataclysm_spellbooks)
+		Chat Heads 0.15.2 (chat_heads)
+		Chunky 1.4.23 (chunky)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		Clumps 19.0.0.1 (clumps)
+		Colorful Hearts 10.5.9 (colorfulhearts)
+		Comforts 9.0.5+1.21.1 (comforts)
+		Common Networking 1.0.21-1.21.1 (commonnetworking)
+		CommonCapabilities 2.11.5 (commoncapabilities)
+		CorgiLib 5.0.0.9 (corgilib)
+		CraterLib 3.1.2 (craterlib)
+		Create 6.0.10 (create)
+		Create: Connected 1.3.2-mc1.21.1 (create_connected)
+		Create: Copycats+ 3.0.4+mc.1.21.1-neoforge (copycats)
+		Cristel Lib 3.1.7 (cristellib)
+		Crossroads 1.21.1-2.11.7 (crossroads)
+		Cumulus 2.0.7 (cumulus_menus)
+		Curios API 9.5.1+1.21.1 (curios)
+		Cyclops Core 1.29.1 (cyclopscore)
+		Deeper and Darker 1.4.1 (deeperdarker)
+		Dynamic Crosshair 9.11 (dynamiccrosshair)
+		Dynamic Crosshair API 1.2 (dynamiccrosshairapi)
+		Dynamic FPS 3.11.4 (dynamic_fps)
+		Essentials 2.17.5 (essentials)
+		ExpandAbility 12.0.0 (expandability)
+		Explorer's Compass 1.21.1-3.4.0-neoforge (explorerscompass)
+		Explorify 1.6.5 (explorify)
+		Ferrite Core 7.0.3 (ferritecore)
+		Flux Networks 8.0.0 (fluxnetworks)
+		Flywheel 1.0.6 (flywheel)
+		Forgified Fabric API Base 0.4.42+d1308dedd1 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		FTB Chunks 2101.1.20 (ftbchunks)
+		FTB Essentials 2101.1.9 (ftbessentials)
+		FTB Filter System 21.1.4 (ftbfiltersystem)
+		FTB Library 2101.1.32 (ftblibrary)
+		FTB Quests 2101.1.27 (ftbquests)
+		FTB Teams 2101.1.10 (ftbteams)
+		FTB XMod Compat 21.1.8 (ftbxmodcompat)
+		Fzzy Config 0.7.6+1.21+neoforge (fzzy_config)
+		GeckoLib 4 4.9.1 (geckolib)
+		Get It Together, Drops! 1.4 (getittogetherdrops)
+		GlitchCore 2.1.0.2 (glitchcore)
+		Grand Power 3.0.0 (grandpower)
+		Gravestone Curios Compatibility 4.0.2 (gravestonecurioscompat)
+		Gravestone Mod 1.21.1-1.0.37 (gravestone)
+		GuideME 21.1.16 (guideme)
+		ImmediatelyFast 1.6.10+1.21.1 (immediatelyfast)
+		Immersive Aircraft 1.4.6+1.21.1 (immersive_aircraft)
+		Immersive Engineering 12.4.2-194 (immersiveengineering)
+		Immersive Machinery 0.2.0+1.21.1 (immersive_machinery)
+		Infiniverse 2.0.1.0 (infiniverse)
+		IntegratedCrafting 1.4.6 (integratedcrafting)
+		IntegratedDynamics 1.33.3 (integrateddynamics)
+		IntegratedREST 1.1.15 (integratedrest)
+		IntegratedScripting 1.0.22 (integratedscripting)
+		IntegratedTerminals 1.7.0 (integratedterminals)
+		IntegratedTunnels 1.9.4 (integratedtunnels)
+		Iris 1.8.14-beta.1+mc1.21.1 (iris)
+		Iron's Lib 1.21.1-1.1.0 (irons_lib)
+		Iron's Spells 'n Spellbooks 1.21.1-3.16.1 (irons_spellbooks)
+		Jade 15.10.5+neoforge (jade)
+		Journeymap 1.21.1-6.0.0 (journeymap)
+		JourneyMap API 2.0.0-1.21.1 (journeymap_api)
+		Just Enough Items 19.27.0.343 (jei)
+		Kotlin For Forge 5.12.0 (kotlinforforge)
+		Ksyxis 1.4.3 (ksyxis)
+		KubeJS 2101.7.2-build.368 (kubejs)
+		KumaAPI 21.0.8 (kuma_api)
+		L_Ender's Cataclysm 1.21.1 3.31-optimaztion (cataclysm)
+		LambDynamicLights (API) 4.5.1+1.21.1 (lambdynlights_api)
+		LibBamboo 2.25 (libbamboo)
+		lionfishapi 3.0 (lionfishapi)
+		Lithium 0.15.4+mc1.21.1 (lithium)
+		Lithostitched 1.7.12 (lithostitched)
+		Lootr 1.21.1-1.11.37.121 (lootr)
+		Mekanism 10.7.19 (mekanism)
+		Mekanism: Additions 10.7.19 (mekanismadditions)
+		Mekanism: Generators 10.7.19 (mekanismgenerators)
+		Mekanism: Tools 10.7.19 (mekanismtools)
+		Minecraft 1.21.1 (minecraft)
+		Modern Industrialization 2.5.1 (modern_industrialization)
+		ModernFix 5.27.14+mc1.21.1 (modernfix)
+		More Curios Slots 1.4 (more_curios_slots)
+		Nature's Compass 1.21.1-3.4.0-neoforge (naturescompass)
+		NeoForge 21.1.228 (neoforge)
+		Nitrogen 1.1.25 (nitrogen_internals)
+		Noisium 2.7.0+mc1.21-1.21.1 (noisium)
+		Nuggets 1.1.0.48 (nuggets)
+		OreExcavation 1.16.43 (oreexcavation)
+		oωo 0.12.15.5-beta.1+1.21 (owo)
+		Patchouli 1.21.1-93-NEOFORGE (patchouli)
+		Placebo 9.9.1 (placebo)
+		Player Animator 2.0.4+1.21.1 (playeranimator)
+		Ponder 1.0.82+mc1.21.1 (ponder)
+		Regions Unexplored 0.6.1 (regions_unexplored)
+		Rhino 2101.2.7-build.85 (rhino)
+		Sable Companion 1.6.0 (sablecompanion)
+		Sauce Library 0.0.42.89 (sauce)
+		Serene Seasons 10.1.0.3 (sereneseasons)
+		ServerCore 1.5.19+1.21.1 (servercore)
+		Simple Backups 1.21-4.0.30 (simplebackups)
+		Simple Voice Chat 1.21.1-2.6.20 (voicechat)
+		Simply Swords 1.63.0-1.21.1 (simplyswords)
+		Simply Tooltips 0.1.3 (simplytooltips)
+		Sophisticated Backpacks 3.25.64 (sophisticatedbackpacks)
+		Sophisticated Backpacks Create Integration 0.1.7 (sophisticatedbackpackscreateintegration)
+		Sophisticated Core 1.4.62 (sophisticatedcore)
+		Sophisticated Storage 1.5.65 (sophisticatedstorage)
+		Sophisticated Storage Create Integration 0.1.17 (sophisticatedstoragecreateintegration)
+		spark 1.10.124 (spark)
+		SpectreLib 0.17.2+1.21 (spectrelib)
+		Tectonic 3.0.22 (tectonic)
+		TerraBlender 4.1.0.8 (terrablender)
+		The Aether 1.5.10 (aether)
+		Tom's Simple Storage Mod 2.3.2 (toms_storage)
+		TrashSlot 21.1.11 (trashslot)
+		Villager In A Bucket 1.21.1-1.1.1 (villagerinabucket)
+		Waystones 21.1.34 (waystones)
+		YUNG's API 1.21.1-NeoForge-5.1.6 (yungsapi)
+		YUNG's Better Desert Temples 1.21.1-NeoForge-4.1.5 (betterdeserttemples)
+		YUNG's Better Dungeons 1.21.1-NeoForge-5.1.4 (betterdungeons)
+		YUNG's Better End Island 1.21.1-NeoForge-3.1.2 (betterendisland)
+		YUNG's Better Jungle Temples 1.21.1-NeoForge-3.1.2 (betterjungletemples)
+		YUNG's Better Mineshafts 1.21.1-NeoForge-5.1.1 (bettermineshafts)
+		YUNG's Better Nether Fortresses 1.21.1-NeoForge-3.1.5 (betterfortresses)
+		YUNG's Better Ocean Monuments 1.21.1-NeoForge-4.1.2 (betteroceanmonuments)
+		YUNG's Better Strongholds 1.21.1-NeoForge-5.1.3 (betterstrongholds)
+		YUNG's Better Witch Huts 1.21.1-NeoForge-4.1.1 (betterwitchhuts)
+		YUNG's Bridges 1.21.1-NeoForge-5.1.1 (yungsbridges)
+		YUNG's Extras 1.21.1-NeoForge-5.1.1 (yungsextras)
+[10Jul2026 08:09:34.831] [main/INFO] [net.neoforged.fml.loading.FMLServiceProvider/CORE]: Loading coremod script-engine for [apothic_enchanting]
+[10Jul2026 08:09:36.828] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jul2026 08:09:36.833] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[10Jul2026 08:09:37.192] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[10Jul2026 08:09:37.250] [main/INFO] [Arclight/]: Arclight core mixin added.
+[10Jul2026 08:09:37.251] [main/INFO] [Arclight/]: Arclight optimization mixin added.
+[10Jul2026 08:09:37.254] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments []
+[10Jul2026 08:09:37.260] [main/WARN] [mixin/]: Reference map 'betterdungeons.refmap.json' for betterdungeons.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.260] [main/WARN] [mixin/]: Reference map 'kuma_api.refmap.json' for kuma_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.262] [main/WARN] [mixin/]: Reference map 'betterwitchhuts.refmap.json' for betterwitchhuts.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.263] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.265] [main/WARN] [mixin/]: Reference map 'aether.refmap.json' for aether.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.338] [main/WARN] [mixin/]: Reference map 'betteroceanmonuments.refmap.json' for betteroceanmonuments.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.340] [main/WARN] [mixin/]: Reference map 'placebo.refmap.json' for placebo.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.498] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.27.14+mc1.21.1: 88 options available, 0 override(s) found
+[10Jul2026 08:09:37.498] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[10Jul2026 08:09:37.501] [main/WARN] [mixin/]: Reference map 'modernfix.refmap.json' for modernfix-modernfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.504] [main/WARN] [mixin/]: Reference map 'yungsapi.refmap.json' for yungsapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.507] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.507] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.508] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.508] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.509] [main/WARN] [mixin/]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.513] [main/WARN] [mixin/]: Reference map 'nuggets.refmap.json' for nuggets.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.514] [main/WARN] [mixin/]: Reference map 'balm.refmap.json' for balm.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.518] [main/WARN] [mixin/]: Reference map '' for chat_heads.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.519] [main/WARN] [mixin/]: Reference map 'betterfortresses.refmap.json' for betterfortresses.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.527] [main/WARN] [mixin/]: Reference map 'create_connected.refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.528] [main/WARN] [mixin/]: Reference map 'aces_spell_utils.refmap.json' for aces_spell_utils.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.529] [main/WARN] [mixin/]: Reference map 'getittogetherdrops.refmap.json' for getittogetherdrops.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.533] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.534] [main/WARN] [mixin/]: Reference map 'apothic_attributes.refmap.json' for apothic_attributes.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.640] [main/WARN] [mixin/]: Reference map 'lionfishapi.refmap.json' for lionfishapi.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.641] [main/WARN] [mixin/]: Reference map 'cataclysm.refmap.json' for cataclysm.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.641] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.642] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.642] [main/WARN] [mixin/]: Reference map 'patchouli.refmap.json' for patchouli_xplat.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.646] [main/WARN] [mixin/]: Reference map 'betterstrongholds.refmap.json' for betterstrongholds.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.648] [main/WARN] [mixin/]: Reference map '' for accessories-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.649] [main/WARN] [mixin/]: Reference map '' for accessories-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.650] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.651] [main/WARN] [mixin/]: Reference map 'cumulus_menus.refmap.json' for cumulus_menus.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.681] [main/WARN] [mixin/]: Reference map 'betterendisland.refmap.json' for betterendisland.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.684] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.684] [main/WARN] [mixin/]: Reference map 'bettermineshafts.refmap.json' for bettermineshafts.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.685] [main/WARN] [mixin/]: Reference map 'betterjungletemples.refmap.json' for betterjungletemples.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.686] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.696] [main/WARN] [mixin/]: Reference map 'irons_lib.refmap.json' for irons_lib.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.740] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[10Jul2026 08:09:37.740] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[10Jul2026 08:09:37.740] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[10Jul2026 08:09:37.740] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[10Jul2026 08:09:37.740] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 148 options available, 0 override(s) found
+[10Jul2026 08:09:37.743] [main/WARN] [mixin/]: Reference map 'waystones.refmap.json' for waystones.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.744] [main/WARN] [mixin/]: Reference map 'clumps.refmap.json' for clumps.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.744] [main/WARN] [mixin/]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.745] [main/WARN] [mixin/]: Reference map 'comforts.refmap.json' for comforts.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.747] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.747] [main/WARN] [mixin/]: Reference map 'glitchcore.refmap.json' for glitchcore.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.748] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.748] [main/WARN] [mixin/]: Reference map 'sereneseasons.refmap.json' for sereneseasons.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.749] [main/WARN] [mixin/]: Reference map 'betterdeserttemples.refmap.json' for betterdeserttemples.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.752] [main/WARN] [mixin/]: Reference map 'ars_nouveau.refmap.json' for ars_nouveau.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.753] [main/WARN] [mixin/]: Reference map 'sauce.refmap.json' for sauce.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.755] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.756] [main/WARN] [mixin/]: Reference map 'terrablender.refmap.json' for terrablender_neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.756] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.756] [main/WARN] [mixin/]: Reference map 'biomesoplenty.refmap.json' for biomesoplenty.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.757] [main/WARN] [mixin/]: Reference map 'apothic_spawners.refmap.json' for apothic_spawners.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.757] [main/WARN] [mixin/]: Reference map 'apotheosis.refmap.json' for apotheosis.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.758] [main/WARN] [mixin/]: Reference map '${mod_id}.refmap.json' for regions_unexplored.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.758] [main/WARN] [mixin/]: Reference map '${mod_id}.refmap.json' for regions_unexplored.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.792] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.798] [main/WARN] [mixin/]: Reference map 'ars_elemental.refmap.json' for ars_elemental.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.801] [main/WARN] [mixin/]: Reference map 'irons_spellbooks.refmap.json' for irons_spellbooks.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.843] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.845] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.846] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.846] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.847] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.848] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.878] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.880] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.881] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.datacomponents.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:37.881] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[10Jul2026 08:09:38.907] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[10Jul2026 08:09:39.294] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[10Jul2026 08:09:39.340] [main/WARN] [mixin/]: Error loading class: dev/simulated_team/simulated/content/blocks/throttle_lever/ThrottleLeverBlock (java.lang.ClassNotFoundException: dev.simulated_team.simulated.content.blocks.throttle_lever.ThrottleLeverBlock)
+[10Jul2026 08:09:39.340] [main/WARN] [mixin/]: @Mixin target dev.simulated_team.simulated.content.blocks.throttle_lever.ThrottleLeverBlock was not found create_connected.mixins.json:linkedtransmitter.ThrottleLeverBlockMixin from mod create_connected
+[10Jul2026 08:09:39.817] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/EnchantmentHelper
+[10Jul2026 08:09:40.022] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[10Jul2026 08:09:40.082] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/Enchantment
+[10Jul2026 08:09:40.089] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[10Jul2026 08:09:40.228] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[10Jul2026 08:09:40.867] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[10Jul2026 08:09:40.881] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/CreateBuffetWorldScreen$BiomeList (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.CreateBuffetWorldScreen$BiomeList)
+[10Jul2026 08:09:40.881] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.CreateBuffetWorldScreen$BiomeList was not found regions_unexplored.mixins.json:removals.BiomeListMixin from mod regions_unexplored
+[10Jul2026 08:09:41.652] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Patching FishingHook#catchingFish
+[10Jul2026 08:09:42.625] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[10Jul2026 08:09:42.895] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[10Jul2026 08:09:43.206] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method decoratedId in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Jul2026 08:09:44.182] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (16.76 s after launch)
+[10Jul2026 08:09:44.603] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[10Jul2026 08:09:46.540] [main/WARN] [mixin/]: Method overwrite conflict for getIndirectPassengers in mixins.arclight.impl.optimization.json:EntityMixin_Optimize from mod (unknown), previously written by net.caffeinemc.mods.lithium.mixin.alloc.deep_passengers.EntityMixin. Skipping method.
+[10Jul2026 08:09:50.690] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method getTemperature in modernfix-modernfix.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Jul2026 08:09:50.697] [main/WARN] [mixin/]: Method overwrite conflict for getTemperature in lithium.mixins.json:world.temperature_cache.BiomeMixin from mod lithium, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
+[10Jul2026 08:09:50.831] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[10Jul2026 08:09:50.846] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping mixins.arclight.core.json:world.inventory.AnvilMenuMixin from mod (unknown)->@ModifyConstant::arclight$maximumRepairCost(I)I with priority 500, already redirected by apothic_enchanting.mixins.json:AnvilMenuMixin from mod apothic_enchanting->@ModifyConstant::apoth_removeLevelCap(I)I with priority 1000
+[10Jul2026 08:09:50.846] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping mixins.arclight.core.json:world.inventory.AnvilMenuMixin from mod (unknown)->@ModifyConstant::arclight$maximumRepairCost(I)I with priority 500, already redirected by apothic_enchanting.mixins.json:AnvilMenuMixin from mod apothic_enchanting->@ModifyConstant::apoth_removeLevelCap(I)I with priority 1000
+[10Jul2026 08:09:50.846] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping mixins.arclight.core.json:world.inventory.AnvilMenuMixin from mod (unknown)->@ModifyConstant::arclight$maximumRepairCost(I)I with priority 500, already redirected by apothic_enchanting.mixins.json:AnvilMenuMixin from mod apothic_enchanting->@ModifyConstant::apoth_removeLevelCap(I)I with priority 1000
+[10Jul2026 08:09:52.410] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/Enchantment
+[10Jul2026 08:09:56.041] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Patching FishingHook#catchingFish
+[10Jul2026 08:09:56.942] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[10Jul2026 08:09:58.763] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/providers/SingleEnchantment
+[10Jul2026 08:09:58.879] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 14693 milliseconds
+[10Jul2026 08:10:07.088] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.228, for MC 1.21.1
+[10Jul2026 08:10:07.415] [modloading-worker-0/INFO] [com.leclowndu93150.corpsecurioscompat.Main/]: Hello from Gravestone Curios Compat!
+[10Jul2026 08:10:08.832] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-common.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatBlockEntity
+[10Jul2026 08:10:08.990] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.19+1.21.1!
+[10Jul2026 08:10:09.509] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[10Jul2026 08:10:11.278] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplytooltips:config in 1250ms
+[10Jul2026 08:10:11.293] [modloading-worker-0/INFO] [simplytooltips/]: SimplyTooltips config loaded: simplytooltips:config
+[10Jul2026 08:10:11.495] [modloading-worker-0/INFO] [owo/]: chyz: bro, can you stop breathing
+[10Jul2026 08:10:11.521] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.config.NeoForgeBalmConfig/]: Registering config for trashslot:common (COMMON) with 5 properties.
+[10Jul2026 08:10:11.720] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[10Jul2026 08:10:11.720] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[10Jul2026 08:10:11.720] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[10Jul2026 08:10:11.720] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[10Jul2026 08:10:11.735] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[10Jul2026 08:10:11.735] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[10Jul2026 08:10:11.735] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[10Jul2026 08:10:11.735] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[10Jul2026 08:10:11.789] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[10Jul2026 08:10:11.789] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[10Jul2026 08:10:11.789] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[10Jul2026 08:10:11.789] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[10Jul2026 08:10:11.849] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[10Jul2026 08:10:11.850] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[10Jul2026 08:10:11.850] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[10Jul2026 08:10:11.850] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[10Jul2026 08:10:11.889] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[10Jul2026 08:10:11.889] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[10Jul2026 08:10:11.889] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[10Jul2026 08:10:11.889] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[10Jul2026 08:10:11.927] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[10Jul2026 08:10:11.927] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[10Jul2026 08:10:11.927] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[10Jul2026 08:10:11.928] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[10Jul2026 08:10:11.942] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[10Jul2026 08:10:11.942] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[10Jul2026 08:10:11.942] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[10Jul2026 08:10:11.942] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[10Jul2026 08:10:11.952] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[10Jul2026 08:10:11.952] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[10Jul2026 08:10:11.952] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[10Jul2026 08:10:11.952] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[10Jul2026 08:10:11.993] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[10Jul2026 08:10:11.993] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[10Jul2026 08:10:11.993] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[10Jul2026 08:10:11.993] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[10Jul2026 08:10:12.003] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[10Jul2026 08:10:12.003] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[10Jul2026 08:10:12.003] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[10Jul2026 08:10:12.003] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[10Jul2026 08:10:12.012] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[10Jul2026 08:10:12.012] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[10Jul2026 08:10:12.012] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[10Jul2026 08:10:12.012] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[10Jul2026 08:10:12.026] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[10Jul2026 08:10:12.026] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[10Jul2026 08:10:12.026] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[10Jul2026 08:10:12.026] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[10Jul2026 08:10:12.043] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[10Jul2026 08:10:12.043] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[10Jul2026 08:10:12.043] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[10Jul2026 08:10:12.043] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[10Jul2026 08:10:12.084] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[10Jul2026 08:10:12.084] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[10Jul2026 08:10:12.084] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[10Jul2026 08:10:12.084] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[10Jul2026 08:10:12.097] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[10Jul2026 08:10:12.097] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[10Jul2026 08:10:12.097] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[10Jul2026 08:10:12.097] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[10Jul2026 08:10:12.113] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[10Jul2026 08:10:12.113] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[10Jul2026 08:10:12.113] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[10Jul2026 08:10:12.113] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[10Jul2026 08:10:12.137] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[10Jul2026 08:10:12.137] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[10Jul2026 08:10:12.137] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[10Jul2026 08:10:12.137] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[10Jul2026 08:10:12.288] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[10Jul2026 08:10:12.288] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[10Jul2026 08:10:12.288] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[10Jul2026 08:10:12.288] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[10Jul2026 08:10:12.315] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlockEntity
+[10Jul2026 08:10:12.320] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlockEntity
+[10Jul2026 08:10:12.324] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlockEntity
+[10Jul2026 08:10:12.327] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlockEntity
+[10Jul2026 08:10:12.330] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlockEntity
+[10Jul2026 08:10:12.333] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatStraightPipeBlockEntity
+[10Jul2026 08:10:12.336] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlockEntity
+[10Jul2026 08:10:12.427] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:general in 115ms
+[10Jul2026 08:10:12.487] [modloading-worker-0/INFO] [KubeJS/]: Loading vanilla registries...
+[10Jul2026 08:10:12.513] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[10Jul2026 08:10:12.519] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[10Jul2026 08:10:12.528] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin does not load on server side, skipping
+[10Jul2026 08:10:12.530] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbxmodcompat
+[10Jul2026 08:10:12.534] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source modern_industrialization
+[10Jul2026 08:10:12.537] [modloading-worker-0/INFO] [KubeJS/]: Done in 22.63 ms
+[10Jul2026 08:10:12.578] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] Enabled KubeJS integration
+[10Jul2026 08:10:12.579] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Chunks] Enabled KubeJS integration
+[10Jul2026 08:10:13.036] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:gem_powers in 506ms
+[10Jul2026 08:10:13.078] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:status_effects in 42ms
+[10Jul2026 08:10:13.208] [modloading-worker-0/INFO] [KubeJS Startup/]: startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[10Jul2026 08:10:13.209] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:main.js in 0.095 s
+[10Jul2026 08:10:13.212] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.622 s with 0 errors and 0 warnings
+[10Jul2026 08:10:13.219] [modloading-worker-0/INFO] [KubeJS Startup/]: Validated 0 files in kubejs/data/ in 1ms
+[10Jul2026 08:10:13.480] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:weapon_attributes in 397ms
+[10Jul2026 08:10:14.133] [modloading-worker-0/INFO] [fzzy_config/]: Loaded config simplyswords:unique_effects in 541ms
+[10Jul2026 08:10:14.234] [modloading-worker-0/INFO] [STDOUT/]: [net.sweenus.simplyswords.SimplySwords:init:100]: /home/ubuntu/workspace/moddedsmp-data/moddedsmp100/config
+[10Jul2026 08:10:14.311] [modloading-worker-0/INFO] [net.blay09.mods.balm.neoforge.config.NeoForgeBalmConfig/]: Registering config for waystones:common (COMMON) with 34 properties.
+[10Jul2026 08:10:14.994] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/fertility.toml
+[10Jul2026 08:10:14.994] [modloading-worker-0/INFO] [glitchcore/]: Registered synced config with path sereneseasons/seasons.toml
+[10Jul2026 08:10:15.232] [modloading-worker-0/INFO] [CraterLoader/]: Discovering Plugins
+[10Jul2026 08:10:15.233] [modloading-worker-0/INFO] [CraterLoader/]: Discovered 0 plugins
+[10Jul2026 08:10:15.386] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[10Jul2026 08:10:18.707] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Loading... (platform: neoforge, version: 1.4.3, manual: false)
+[10Jul2026 08:10:18.708] [modloading-worker-0/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Ready to remove unneeded chunks. (mixinVersion: 0.8.7, time: 0 ms)
+[10Jul2026 08:10:18.713] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[10Jul2026 08:10:18.723] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.10 initializing! Commit hash: ac0c444d9828da3453ae8cc65338e8de063286fb
+[10Jul2026 08:10:18.731] [modloading-worker-0/INFO] [Modern Industrialization/]: Modern Industrialization setup done!
+[10Jul2026 08:10:19.701] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-common.mixins.json:copycat.step.CopycatStepBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatStepBlock
+[10Jul2026 08:10:19.708] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[10Jul2026 08:10:19.708] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[10Jul2026 08:10:19.708] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: ========================================
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: Ars 'n' Spells - Startup Validation
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: ========================================
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: OK Ars Nouveau detected
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: OK Iron's Spellbooks detected (optional)
+[10Jul2026 08:10:19.828] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: OK Java version: 21.0.11 (compatible)
+[10Jul2026 08:10:19.833] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: ========================================
+[10Jul2026 08:10:19.833] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: OK Startup Validation: PASSED
+[10Jul2026 08:10:19.833] [modloading-worker-0/INFO] [com.otectus.arsnspells.util.StartupValidator/]: ========================================
+[10Jul2026 08:10:19.999] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod loaded.
+[10Jul2026 08:10:20.012] [modloading-worker-0/INFO] [Arclight/]: Arclight events registered.
+[10Jul2026 08:10:20.014] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Jul2026 08:10:26.272] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_death_laser_beam has no attributes
+[10Jul2026 08:10:26.272] [modloading-sync-worker/ERROR] [net.minecraft.Util/]: Entity cataclysm_spellbooks:extended_laser_beam has no attributes
+[10Jul2026 08:10:26.381] [modloading-sync-worker/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[10Jul2026 08:10:26.484] [modloading-worker-0/INFO] [integrateddynamics/]: Registered packet handler.
+[10Jul2026 08:10:26.493] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[10Jul2026 08:10:26.525] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[10Jul2026 08:10:26.531] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/cyclops-core.json
+[10Jul2026 08:10:26.584] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[10Jul2026 08:10:26.584] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[10Jul2026 08:10:26.584] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[10Jul2026 08:10:26.612] [modloading-worker-0/INFO] [FTB Library/]: Setting game stages provider implementation to: KubeJS Stages
+[10Jul2026 08:10:26.612] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [KubeJS Stages] as the active game stages implementation
+[10Jul2026 08:10:26.613] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [FALLBACK] as the active permissions implementation
+[10Jul2026 08:10:26.614] [modloading-worker-0/INFO] [FTB Library/]: Setting permissions currency implementation to: <NONE>
+[10Jul2026 08:10:26.614] [modloading-worker-0/INFO] [FTB XMod Compat/]: Chose [<NONE>] as the active currency implementation
+[10Jul2026 08:10:26.615] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] recipe helper provider is [JEI]
+[10Jul2026 08:10:26.618] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Quests] Enabled FTB Filter System integration
+[10Jul2026 08:10:26.619] [modloading-worker-0/INFO] [FTB XMod Compat/]: [FTB Chunks] Enabled Waystones integration
+[10Jul2026 08:10:26.686] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[10Jul2026 08:10:26.691] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.7.19 initializing...
+[10Jul2026 08:10:26.698] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Initialized HolidayManager.
+[10Jul2026 08:10:26.708] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[10Jul2026 08:10:26.708] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[10Jul2026 08:10:26.709] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[10Jul2026 08:10:26.709] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Additions' module.
+[10Jul2026 08:10:26.709] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[10Jul2026 08:10:26.777] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[10Jul2026 08:10:26.805] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.29.1 Target: null
+[10Jul2026 08:10:26.806] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.21.1-develop/update.json
+[10Jul2026 08:10:26.921] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.5.10 Target: null
+[10Jul2026 08:10:26.921] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedterminals] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-terminals.json
+[10Jul2026 08:10:26.926] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedterminals] Found status: UP_TO_DATE Current: 1.7.0 Target: null
+[10Jul2026 08:10:26.926] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedrest] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-rest.json
+[10Jul2026 08:10:27.052] [modloading-worker-0/INFO] [integrateddynamics/]: Registered packet handler.
+[10Jul2026 08:10:27.053] [modloading-worker-0/INFO] [integrateddynamicscompat/]: Registered packet handler.
+[10Jul2026 08:10:27.078] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedrest] Found status: UP_TO_DATE Current: 1.1.15 Target: null
+[10Jul2026 08:10:27.078] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[10Jul2026 08:10:27.086] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_connected] Found status: UP_TO_DATE Current: 1.3.2-mc1.21.1 Target: null
+[10Jul2026 08:10:27.086] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [commoncapabilities] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/common-capabilities.json
+[10Jul2026 08:10:27.092] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [commoncapabilities] Found status: UP_TO_DATE Current: 2.11.5 Target: null
+[10Jul2026 08:10:27.092] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedscripting] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-scripting.json
+[10Jul2026 08:10:27.112] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[10Jul2026 08:10:27.112] [modloading-sync-worker/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[10Jul2026 08:10:27.112] [modloading-sync-worker/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[10Jul2026 08:10:27.115] [modloading-sync-worker/INFO] [terrablender/]: Registered region ars_elemental:overworld to index 2 for type OVERWORLD
+[10Jul2026 08:10:27.121] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedscripting] Found status: UP_TO_DATE Current: 1.0.22 Target: null
+[10Jul2026 08:10:27.121] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedtunnels] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-tunnels.json
+[10Jul2026 08:10:27.130] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedtunnels] Found status: UP_TO_DATE Current: 1.9.4 Target: null
+[10Jul2026 08:10:27.130] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=neoforge
+[10Jul2026 08:10:27.236] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 3 for type OVERWORLD
+[10Jul2026 08:10:27.236] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 4 for type OVERWORLD
+[10Jul2026 08:10:27.236] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 5 for type OVERWORLD
+[10Jul2026 08:10:27.236] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[10Jul2026 08:10:27.236] [modloading-sync-worker/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[10Jul2026 08:10:27.285] [modloading-sync-worker/INFO] [com.otectus.arsnspells.ArsNSpells/]: OK Rituals registered
+[10Jul2026 08:10:27.285] [modloading-sync-worker/INFO] [com.otectus.arsnspells.compat.irons_spells.SchoolIndex/]: [SchoolIndex] snapshotted 14 Iron's schools
+[10Jul2026 08:10:27.285] [modloading-sync-worker/INFO] [terrablender/]: Registered region integrateddynamics:overworld to index 6 for type OVERWORLD
+[10Jul2026 08:10:27.517] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.11.4 Target: null
+[10Jul2026 08:10:27.517] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check-nf.json
+[10Jul2026 08:10:27.524] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 2.3.2 Target: 2.3.2
+[10Jul2026 08:10:27.524] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[10Jul2026 08:10:27.529] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 3.0.4+mc.1.21.1-neoforge Target: null
+[10Jul2026 08:10:27.529] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.21.1&ml=neoforge
+[10Jul2026 08:10:27.725] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[10Jul2026 08:10:27.804] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.aetherteam.aether.integration.jade.AetherJadePlugin
+[10Jul2026 08:10:27.811] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.balm.neoforge.compat.hudinfo.NeoForgeJadeModCompat
+[10Jul2026 08:10:27.812] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apothic_enchanting.compat.EnchJadePlugin
+[10Jul2026 08:10:27.813] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.tom.storagemod.jade.JadePlugin
+[10Jul2026 08:10:27.815] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.p3pp3rf1y.sophisticatedstorage.compat.jade.StorageJadePlugin
+[10Jul2026 08:10:27.816] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[10Jul2026 08:10:27.817] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from net.blay09.mods.waystones.compat.JadeIntegration
+[10Jul2026 08:10:27.817] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[10Jul2026 08:10:27.818] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apothic_spawners.compat.SpawnerHwylaPlugin
+[10Jul2026 08:10:27.818] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.shadowsoffire.apotheosis.compat.AdventureHwylaPlugin
+[10Jul2026 08:10:27.819] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from dev.ftb.mods.ftbxmodcompat.generic.jade.JadePlugin
+[10Jul2026 08:10:27.820] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from blusunrize.immersiveengineering.common.util.compat.jade.IEWailaPlugin
+[10Jul2026 08:10:27.821] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[10Jul2026 08:10:27.837] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[10Jul2026 08:10:27.842] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[10Jul2026 08:10:27.842] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[10Jul2026 08:10:27.843] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[10Jul2026 08:10:27.843] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from appeng.integration.modules.jade.JadeModule
+[10Jul2026 08:10:27.878] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from aztech.modern_industrialization.client.compat.jade.MIJadeClientPlugin
+[10Jul2026 08:10:27.878] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from aztech.modern_industrialization.compat.jade.server.MIJadeCommonPlugin
+[10Jul2026 08:10:27.882] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from org.cyclops.integrateddynamicscompat.modcompat.jade.JadeIntegratedDynamicsConfig
+[10Jul2026 08:10:27.885] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[10Jul2026 08:10:27.886] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from noobanidus.mods.lootr.common.integration.jade.LootrWailaPlugin
+[10Jul2026 08:10:27.903] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [clumps] Found status: BETA Current: 19.0.0.1 Target: 19.0.0.1
+[10Jul2026 08:10:27.903] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[10Jul2026 08:10:27.993] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0 Target: 1.21.1-6.0.0-beta.52
+[10Jul2026 08:10:27.993] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedcrafting] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-crafting.json
+[10Jul2026 08:10:27.998] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integratedcrafting] Found status: UP_TO_DATE Current: 1.4.6 Target: null
+[10Jul2026 08:10:27.999] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [simplebackups] Starting version check at https://assets.melanx.de/updates/simple-backups.json
+[10Jul2026 08:10:28.051] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [simplebackups] Found status: AHEAD Current: 1.21-4.0.30 Target: null
+[10Jul2026 08:10:28.051] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/neoforge/voicechat
+[10Jul2026 08:10:28.596] [modloading-sync-worker/INFO] [CorgiLib/]: Initializing network...
+[10Jul2026 08:10:28.599] [modloading-sync-worker/INFO] [CorgiLib/]: Initialized network!
+[10Jul2026 08:10:28.689] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Found status: BETA Current: 1.21.1-2.6.20 Target: 1.21.1-2.6.20
+[10Jul2026 08:10:28.689] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.21.1/changelog.json
+[10Jul2026 08:10:28.691] [modloading-sync-worker/INFO] [com.otectus.arsnspells.ArsNSpells/]: Registered payload handlers (protocol=1)
+[10Jul2026 08:10:28.697] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [immersiveengineering] Found status: AHEAD Current: 12.4.2-194 Target: null
+[10Jul2026 08:10:28.697] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [ksyxis] Starting version check at https://raw.githubusercontent.com/VidTu/Ksyxis/main/updater_ksyxis_neoforge.json
+[10Jul2026 08:10:28.708] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [ksyxis] Found status: UP_TO_DATE Current: 1.4.3 Target: null
+[10Jul2026 08:10:28.709] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Starting version check at https://api.modrinth.com/updates/create/forge_updates.json?neoforge=only
+[10Jul2026 08:10:28.733] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10Jul2026 08:10:28.779] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Found status: OUTDATED Current: 6.0.10 Target: 6.0.10+mc1.21.1
+[10Jul2026 08:10:28.779] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integrateddynamics] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/neoforge_update/integrated-dynamics.json
+[10Jul2026 08:10:28.783] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [integrateddynamics] Found status: UP_TO_DATE Current: 1.33.3 Target: null
+[10Jul2026 08:10:28.783] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/neoforge/gravestone
+[10Jul2026 08:10:28.885] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Found status: BETA Current: 1.21.1-1.0.37 Target: 1.21.1-1.0.37
+[10Jul2026 08:10:28.950] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ubuntu/workspace/moddedsmp-data/moddedsmp100/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23305!/assets/.mcassetsroot' uses unexpected schema
+[10Jul2026 08:10:28.950] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ubuntu/workspace/moddedsmp-data/moddedsmp100/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23305!/data/.mcassetsroot' uses unexpected schema
+[10Jul2026 08:10:29.104] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method elementOrTag in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagEntryMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Jul2026 08:10:29.232] [main/INFO] [com.simibubi.create.Create/]: Created 690 recipes which will be injected into the game
+[10Jul2026 08:10:29.243] [main/INFO] [com.simibubi.create.Create/]: Created 4 tags which will be injected into the game
+[10Jul2026 08:10:29.291] [main/INFO] [Ksyxis/MOD_KSYXIS]: Ksyxis: Enabled compatibility hack with ModernFix. (removeSpawnChunks: false)
+[10Jul2026 08:10:29.332] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack builtin/aether_accessories, loading it automatically
+[10Jul2026 08:10:29.382] [main/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[10Jul2026 08:10:29.382] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.001 s
+[10Jul2026 08:10:29.398] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.052 s with 0 errors and 0 warnings
+[10Jul2026 08:10:31.434] [Worker-Main-1/INFO] [fzzy_config/]: Loaded config simplyswords:loot in 17ms
+[10Jul2026 08:10:31.494] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_amber_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_amber_fan_dyeing_catalyst
+[10Jul2026 08:10:31.545] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_coral_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_coral_fan_dyeing_catalyst
+[10Jul2026 08:10:31.591] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_forest_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_forest_fan_dyeing_catalyst
+[10Jul2026 08:10:31.683] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_aqua_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_aqua_fan_dyeing_catalyst
+[10Jul2026 08:10:31.698] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_slate_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_slate_fan_dyeing_catalyst
+[10Jul2026 08:10:31.718] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_ginger_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_ginger_fan_dyeing_catalyst
+[10Jul2026 08:10:31.779] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_rose_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_rose_fan_dyeing_catalyst
+[10Jul2026 08:10:31.791] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:irons_spellbooks:test/ring_gen_break_me - Unknown registry key in ResourceKey[minecraft:root / irons_spellbooks:spells]: minecraft:none
+[10Jul2026 08:10:31.822] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_maroon_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_maroon_fan_dyeing_catalyst
+[10Jul2026 08:10:31.822] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_mint_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_mint_fan_dyeing_catalyst
+[10Jul2026 08:10:31.848] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_olive_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_olive_fan_dyeing_catalyst
+[10Jul2026 08:10:31.861] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_verdant_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_verdant_fan_dyeing_catalyst
+[10Jul2026 08:10:31.897] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_beige_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_beige_fan_dyeing_catalyst
+[10Jul2026 08:10:31.934] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_teal_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_teal_fan_dyeing_catalyst
+[10Jul2026 08:10:31.957] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_tan_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_tan_fan_dyeing_catalyst
+[10Jul2026 08:10:31.959] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_indigo_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_indigo_fan_dyeing_catalyst
+[10Jul2026 08:10:31.978] [Worker-Main-1/ERROR] [net.minecraft.world.level.storage.loot.LootDataType/]: Couldn't parse element ResourceKey[minecraft:root / minecraft:loot_table]:create_connected:blocks/dye_depot_navy_fan_dyeing_catalyst - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: create_connected:dye_depot_navy_fan_dyeing_catalyst
+[10Jul2026 08:10:32.208] [Worker-Main-1/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[10Jul2026 08:10:32.329] [Worker-Main-1/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method performTeleport in mixins.arclight.core.json:server.commands.TeleportCommandMixin from mod (unknown) cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Jul2026 08:10:32.734] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SpawnExtraGridTestTools for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.CrystalResonanceGeneratorTestPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InterfaceTestPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InvalidPatternTestPlot for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[10Jul2026 08:10:32.738] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[10Jul2026 08:10:32.749] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[10Jul2026 08:10:32.749] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[10Jul2026 08:10:32.749] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[10Jul2026 08:10:32.749] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[10Jul2026 08:10:32.749] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ExternalEnergyTestPlots for plots
+[10Jul2026 08:10:32.750] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.ChannelTests for plots
+[10Jul2026 08:10:32.750] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.TestPlots for plots
+[10Jul2026 08:10:32.751] [Worker-Main-1/INFO] [AE2:C/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[10Jul2026 08:10:32.925] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:undead as it is missing following references: 
+	cataclysm_spellbooks:summoned_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_royal_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_elite_draugr (from mod/cataclysm_spellbooks)
+[10Jul2026 08:10:32.925] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:sensitive_to_smite as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:32.925] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:can_breathe_under_water as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:32.925] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:inverted_healing_and_harm as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:32.926] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:powder_snow_walkable_mobs as it is missing following references: 
+	cataclysm_spellbooks:summoned_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_elite_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_royal_draugr (from mod/cataclysm_spellbooks)
+[10Jul2026 08:10:32.926] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:wither_friends as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:32.926] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:ignores_poison_and_regen as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.235] [Worker-Main-1/WARN] [net.neoforged.neoforge.registries.DataMapLoader/]: Found data map file for non-existent data map type 'create_dragons_plus:fan_processing_catalysts/coloring' on registry 'minecraft:block'.
+[10Jul2026 08:10:35.457] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:undead as it is missing following references: 
+	cataclysm_spellbooks:summoned_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_royal_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_elite_draugr (from mod/cataclysm_spellbooks)
+[10Jul2026 08:10:35.457] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:sensitive_to_smite as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.457] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:can_breathe_under_water as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.457] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:inverted_healing_and_harm as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.457] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:powder_snow_walkable_mobs as it is missing following references: 
+	cataclysm_spellbooks:summoned_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_elite_draugr (from mod/cataclysm_spellbooks)
+	cataclysm_spellbooks:summoned_royal_draugr (from mod/cataclysm_spellbooks)
+[10Jul2026 08:10:35.458] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:wither_friends as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.458] [main/ERROR] [KubeJS/]: Couldn't load tag minecraft:ignores_poison_and_regen as it is missing following references: 
+	#minecraft:undead (from vanilla)
+[10Jul2026 08:10:35.460] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:sensitive_to_smite
+[10Jul2026 08:10:35.534] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: cataclysm:needs_black_steel_tool, cataclysm:needs_monstrosity_tool
+[10Jul2026 08:10:35.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:the_combuster_upgrade: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_weapon_parts"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_weapon_parts"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_weapon_parts; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:gauntlet_of_gattling"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:gauntlet_of_gattling"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_gattling; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:the_combuster
+[10Jul2026 08:10:35.958] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:excel_upgrade_cooldown: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:excel_upgrade_cooldown; Map entry 's' : Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_scrap"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_scrap"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_scrap
+[10Jul2026 08:10:36.023] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:engineers_power_glove: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:engineers_power_glove
+[10Jul2026 08:10:36.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:the_subjugator_upgrade: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_gattling; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:gauntlet_of_power"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:gauntlet_of_power"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_power
+[10Jul2026 08:10:36.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe ars_n_spells:apparatus/spell_transcription: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"irons_spellbooks:spell_book"}; Second: No key tag in MapLike[{"item":"irons_spellbooks:spell_book"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: irons_spellbooks:spell_book
+[10Jul2026 08:10:36.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:mechanical_brace: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_brace; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_scrap"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_scrap"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_scrap
+[10Jul2026 08:10:36.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:smithing/abyssal_warloock_mask_smithing: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"irons_spellbooks:wizard_base_hat"}; Second: No key tag in MapLike[{"item":"irons_spellbooks:wizard_base_hat"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: irons_spellbooks:wizard_base_hat
+[10Jul2026 08:10:36.161] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:the_nightstalker_upgrade: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_weapon_parts"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_weapon_parts"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_weapon_parts; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:gauntlet_of_gattling"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:gauntlet_of_gattling"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_gattling; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:the_nightstalker
+[10Jul2026 08:10:36.199] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:smithing/excelsius_power_chestplate_upgrade: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:witherite_ingot"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:witherite_ingot"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:witherite_ingot
+[10Jul2026 08:10:36.233] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: simplyswords:mythicmetals_compat/adamantite/adamantite_twinblade; Map entry 'X' : Failed to parse either. First: Not a json array: {"item":"mythicmetals:adamantite_ingot"}; Second: No key tag in MapLike[{"item":"mythicmetals:adamantite_ingot"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mythicmetals:adamantite_ingot
+[10Jul2026 08:10:36.320] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:abyssal_warlock_mask_crafting: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"irons_spellbooks:wizard_base_hat"}; Second: No key tag in MapLike[{"item":"irons_spellbooks:wizard_base_hat"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: irons_spellbooks:wizard_base_hat
+[10Jul2026 08:10:36.324] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe simplyswords:eldritch_end/dreadtide: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: simplyswords:dreadtide; Map entry '#' : Failed to parse either. First: Not a json array: {"item":"eldritch_end:aberration_heart"}; Second: No key tag in MapLike[{"item":"eldritch_end:aberration_heart"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: eldritch_end:aberration_heart
+[10Jul2026 08:10:36.355] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:murasama: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:murasama_blade; Map entry 'm' : Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_weapon_parts"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_weapon_parts"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_weapon_parts
+[10Jul2026 08:10:36.380] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:the_berserker_upgrade: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_weapon_parts"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_weapon_parts"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_weapon_parts; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:gauntlet_of_gattling"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:gauntlet_of_gattling"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_gattling; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:the_berserker
+[10Jul2026 08:10:36.418] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:excel_upgrade_mana: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:excel_upgrade_mana; Map entry 's' : Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_scrap"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_scrap"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_scrap
+[10Jul2026 08:10:36.444] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:abyssal_warlock_helmet_crafting: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"irons_spellbooks:wizard_base_helmet"}; Second: No key tag in MapLike[{"item":"irons_spellbooks:wizard_base_helmet"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: irons_spellbooks:wizard_base_helmet
+[10Jul2026 08:10:36.445] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:excel_upgrade_resistence: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:excel_upgrade_resistence; Map entry 's' : Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:mechanical_scrap"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:mechanical_scrap"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:mechanical_scrap
+[10Jul2026 08:10:36.490] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:smithing/abyssal_warloock_helmet_smithing: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"irons_spellbooks:wizard_base_helmet"}; Second: No key tag in MapLike[{"item":"irons_spellbooks:wizard_base_helmet"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: irons_spellbooks:wizard_base_helmet
+[10Jul2026 08:10:36.592] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cataclysm_spellbooks:the_ordeal_upgrade: com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:gauntlet_of_power; Failed to parse either. First: Not a json array: {"item":"cataclysm_spellbooks:engineers_power_glove"}; Second: No key tag in MapLike[{"item":"cataclysm_spellbooks:engineers_power_glove"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: cataclysm_spellbooks:engineers_power_glove
+[10Jul2026 08:10:36.624] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16531 recipes
+[10Jul2026 08:10:37.328] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 7616 advancements
+[10Jul2026 08:10:37.358] [main/INFO] [Curios API/]: Loaded 18 curio slots
+[10Jul2026 08:10:37.377] [main/INFO] [Curios API/]: Loaded 11 curio entities
+[10Jul2026 08:10:37.404] [main/INFO] [placebo/]: Registered 27 gear_sets.
+[10Jul2026 08:10:37.417] [main/INFO] [placebo/]: Registered 36 wanderer_trades.
+[10Jul2026 08:10:37.423] [main/INFO] [placebo/]: Registered 37 brewing_mixes.
+[10Jul2026 08:10:37.435] [main/INFO] [Apotheosis : Enchantment/]: Registered 25 enchanting_stats.
+[10Jul2026 08:10:37.437] [main/INFO] [apotheosis/]: Registered 5 rarities.
+[10Jul2026 08:10:37.445] [main/INFO] [apotheosis/]: Registered 1 rarity_override.
+[10Jul2026 08:10:37.465] [main/INFO] [apotheosis/]: Registered 93 affixes.
+[10Jul2026 08:10:37.477] [main/INFO] [apotheosis/]: Registered 0 extra_gem_bonuses.
+[10Jul2026 08:10:37.485] [main/INFO] [apotheosis/]: Registered 21 gems.
+[10Jul2026 08:10:37.491] [main/INFO] [apotheosis/]: Registered 49 affix_loot_entries.
+[10Jul2026 08:10:37.504] [main/INFO] [apotheosis/]: Registered 23 apothic_invaders.
+[10Jul2026 08:10:37.507] [main/INFO] [apotheosis/]: Registered 9 rogue_spawners.
+[10Jul2026 08:10:37.508] [main/INFO] [apotheosis/]: Registered 4 apothic_elites.
+[10Jul2026 08:10:37.509] [main/INFO] [apotheosis/]: Registered 1 purity_weights.
+[10Jul2026 08:10:37.509] [main/INFO] [apotheosis/]: Registered 1 apothic_augments.
+[10Jul2026 08:10:37.510] [main/INFO] [apotheosis/]: Registered 19 tier_augments.
+[10Jul2026 08:10:37.531] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:entity_type] are present in data pack: minecraft:sensitive_to_smite
+[10Jul2026 08:10:37.539] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: curios:body
+[10Jul2026 08:10:37.582] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: cataclysm:needs_black_steel_tool, cataclysm:needs_monstrosity_tool
+[10Jul2026 08:10:37.624] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[10Jul2026 08:10:37.828] [main/WARN] [ModernFix/]: Initial datapack load took 8.537 s
+[10Jul2026 08:10:38.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[10Jul2026 08:10:38.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Jul2026 08:10:38.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Jul2026 08:10:38.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Jul2026 08:10:38.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Jul2026 08:10:38.523] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Jul2026 08:10:38.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Jul2026 08:10:38.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Jul2026 08:10:38.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Jul2026 08:10:38.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Jul2026 08:10:38.765] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.21.1-1.0.2-SNAPSHOT-0769551 (MC: 1.21.1) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[10Jul2026 08:10:39.591] [Server thread/INFO] [Minecraft/]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+[10Jul2026 08:10:39.591] [Server thread/INFO] [Minecraft/]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+[10Jul2026 08:10:39.672] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+[10Jul2026 08:10:39.932] [Server thread/INFO] [Arclight/]: Registered 7933 new materials with 4608 blocks and 3325 items
+[10Jul2026 08:10:40.148] [Server thread/INFO] [Arclight/]: Registered 429 new entity types
+[10Jul2026 08:10:40.151] [Server thread/INFO] [Arclight/]: Registered 165 new biomes
+[10Jul2026 08:10:40.182] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[10Jul2026 08:10:40.186] [Spigot Watchdog Thread/INFO] [Arclight/]: Started pseudo Spigot watchdog thread.
+[10Jul2026 08:10:40.186] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[10Jul2026 08:10:40.187] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[10Jul2026 08:10:40.330] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/MCWebBridge-1.0.jar'
+org.bukkit.plugin.InvalidPluginException: java.lang.RuntimeException: org.bukkit.plugin.InvalidPluginException: Cannot find main class `com.hoster.mcwebbridge.MCWebBridge'
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManagerAccessor.java:406) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.SimplePluginManagerAccessor from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManagerAccessor.java:313) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.SimplePluginManagerAccessor from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManagerAccessor.java:122) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.SimplePluginManagerAccessor from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.craftbukkit.v1_21_R1.CraftServer.loadPlugins(CraftServerMixin.java:465) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.neoforge.json:bukkit.CraftServerMixin_NeoForge from mod (unknown),pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.handler$dck000$arclight$loadPlugins(DedicatedServerMixin_NeoForge.java:758) ~[server-1.21.1-20240808.144430-srg.jar%23305!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServerMixin_NeoForge.java:183) ~[server-1.21.1-20240808.144430-srg.jar%23305!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServerMixin_NeoForge.java:670) ~[server-1.21.1-20240808.144430-srg.jar%23305!/:?] {re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-modernfix.mixins.json:perf.fix_loop_spin_waiting.MinecraftServerMixin from mod modernfix,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin from mod (unknown),pl:mixin:APP:mixins.arclight.neoforge.json:core.server.MinecraftServerMixin_NeoForge from mod (unknown),pl:mixin:APP:servercore.common.mixins.json:features.misc.MinecraftServerMixin from mod servercore,pl:mixin:APP:aether.mixins.json:common.accessor.MinecraftServerAccessor from mod aether,pl:mixin:APP:modernfix-modernfix.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin from mod modernfix,pl:mixin:APP:modernfix-modernfix.mixins.json:core.MinecraftServerMixin from mod modernfix,pl:mixin:APP:balm.neoforge.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:servercore.common.mixins.json:MinecraftServerMixin from mod servercore,pl:mixin:APP:kubejs.mixins.json:MinecraftServerMixin from mod kubejs,pl:mixin:APP:ae2.mixins.json:spatial.MinecraftServerMixin from mod ae2,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin from mod ksyxis,pl:mixin:APP:ponder-common.mixins.json:accessor.MinecraftServerAccessor from mod ponder,pl:mixin:APP:lootr-common.mixins.json:accessor.AccessorMixinMinecraftServer from mod lootr,pl:mixin:A}
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServerMixin_NeoForge.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23305!/:?] {re:mixin,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-modernfix.mixins.json:perf.fix_loop_spin_waiting.MinecraftServerMixin from mod modernfix,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin from mod (unknown),pl:mixin:APP:mixins.arclight.neoforge.json:core.server.MinecraftServerMixin_NeoForge from mod (unknown),pl:mixin:APP:servercore.common.mixins.json:features.misc.MinecraftServerMixin from mod servercore,pl:mixin:APP:aether.mixins.json:common.accessor.MinecraftServerAccessor from mod aether,pl:mixin:APP:modernfix-modernfix.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin from mod modernfix,pl:mixin:APP:modernfix-modernfix.mixins.json:core.MinecraftServerMixin from mod modernfix,pl:mixin:APP:balm.neoforge.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:servercore.common.mixins.json:MinecraftServerMixin from mod servercore,pl:mixin:APP:kubejs.mixins.json:MinecraftServerMixin from mod kubejs,pl:mixin:APP:ae2.mixins.json:spatial.MinecraftServerMixin from mod ae2,pl:mixin:APP:ksyxis.mixins.json:MinecraftServerMixin from mod ksyxis,pl:mixin:APP:ponder-common.mixins.json:accessor.MinecraftServerAccessor from mod ponder,pl:mixin:APP:lootr-common.mixins.json:accessor.AccessorMixinMinecraftServer from mod lootr,pl:mixin:A}
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?] {re:mixin}
+Caused by: java.lang.RuntimeException: org.bukkit.plugin.InvalidPluginException: Cannot find main class `com.hoster.mcwebbridge.MCWebBridge'
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.redirect$eme000$arclight$debug$redirectConstructor(JavaPluginLoaderMixin.java:588) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	... 9 more
+Caused by: org.bukkit.plugin.InvalidPluginException: Cannot find main class `com.hoster.mcwebbridge.MCWebBridge'
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:589) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.PluginClassLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.redirect$eme000$arclight$debug$redirectConstructor(JavaPluginLoaderMixin.java:586) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: Plugin MCWebBridge cannot load class com.hoster.mcwebbridge.MCWebBridge
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:719) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.PluginClassLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:112) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.PluginClassLoaderMixin from mod (unknown),pl:mixin:A}
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?] {re:mixin}
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?] {re:mixin}
+	at java.base/java.lang.Class.forName(Class.java:536) ~[?:?] {re:mixin}
+	at java.base/java.lang.Class.forName(Class.java:515) ~[?:?] {re:mixin}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:587) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:computing_frames,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.PluginClassLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.redirect$eme000$arclight$debug$redirectConstructor(JavaPluginLoaderMixin.java:586) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	at TRANSFORMER/arclight@1.0.2-SNAPSHOT+0769551/org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight-1.21.1-1.0.2-SNAPSHOT-0769551.jar%23307!/:arclight-neoforge-1.21.1-1.0.2-SNAPSHOT+0769551] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:plugin.JavaPluginLoaderMixin from mod (unknown),pl:mixin:A}
+	... 9 more
+[10Jul2026 08:10:40.337] [Server thread/INFO] [Arclight/]: Loading mappings ...
+[10Jul2026 08:10:41.390] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+[10Jul2026 08:10:41.790] [Server thread/INFO] [playit-gg/]: Loading playit-gg v0.2.0
+[10Jul2026 08:10:41.791] [Server thread/INFO] [SimpleLogin/]: Loading SimpleLogin v1.16.5
+[10Jul2026 08:10:41.986] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[10Jul2026 08:10:42.008] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Jul2026 08:10:42.033] [Server thread/INFO] [FluxNetworks/Energy]: Energy blacklist loaded: 0 block entries, 0 item entries
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: ========================================
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Ars 'n' Spells - Mana Bridge Initialization
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: ========================================
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Iron's Spellbooks Detected: true
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Mana Unification Mode: iss_primary
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Mode Description: Iron's Spellbooks is the primary mana source
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Primary Bridge: IRONS_SPELLS
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Secondary Bridge: ARS_NATIVE
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: Mana Unification Enabled: true
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: NOTE: Changing mana_unification_mode requires a game restart.
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.bridge.BridgeManager/]: ========================================
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.ArsNSpells/]: ========================================
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.ArsNSpells/]: OK Ars 'n' Spells initialization complete
+[10Jul2026 08:10:42.040] [Server thread/INFO] [com.otectus.arsnspells.ArsNSpells/]: ========================================
+[10Jul2026 08:10:42.124] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:eucalyptus_forest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.189] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.189] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.191] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for biomesoplenty:rocky_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.198] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:sparse_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.201] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:tropics biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[10Jul2026 08:10:42.309] [Server thread/INFO] [FTB Teams/]: loaded team data: 6 known players, 8 teams total
+[10Jul2026 08:10:42.479] [Server thread/INFO] [spark/]: Starting background profiler...
+[10Jul2026 08:10:42.854] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Starting locating executor service with thread pool size of 1
+[10Jul2026 08:10:42.881] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[10Jul2026 08:10:43.746] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[10Jul2026 08:10:43.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Jul2026 08:10:44.540] [Server thread/INFO] [Arclight/]: Registered 3 new dimensions
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.599] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.600] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.689] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.690] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/deeperdarker/otherside] --------
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.700] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/irons_spellbooks/pocket_dimension] --------
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.716] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/aether/the_aether] --------
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.727] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.728] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.728] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.728] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.728] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.728] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:45.744] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:45.745] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:45.789] [Server thread/INFO] [playit-gg/]: Enabling playit-gg v0.2.0
+[10Jul2026 08:10:46.295] [Thread-14/INFO] [gg.playit.minecraft.PlayitKeysSetup/]: secret key found, checking
+[10Jul2026 08:10:46.295] [Thread-14/INFO] [gg.playit.minecraft.PlayitKeysSetup/]: check secret
+[10Jul2026 08:10:46.303] [Server thread/INFO] [SimpleLogin/]: Enabling SimpleLogin v1.16.5
+[10Jul2026 08:10:46.587] [Server thread/INFO] [SimpleLogin/]: SimpleLogin enabled!
+[10Jul2026 08:10:46.599] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[10Jul2026 08:10:46.679] [Server thread/WARN] [Arclight/]: Assign ae2:spatial_storage to unknown level stem LevelStem[type=Reference{ResourceKey[minecraft:dimension_type / ae2:spatial_storage]=DimensionType[fixedTime=OptionalLong[12000], hasSkyLight=false, hasCeiling=false, ultraWarm=false, natural=false, coordinateScale=1.0, bedWorks=false, respawnAnchorWorks=false, minY=0, height=256, logicalHeight=256, infiniburn=TagKey[minecraft:block / minecraft:infiniburn_overworld], effectsLocation=ae2:spatial_storage, ambientLight=1.0, monsterSettings=MonsterSettings[piglinSafe=false, hasRaids=false, monsterSpawnLightTest=0, monsterSpawnBlockLightLimit=0]]}, generator=appeng.spatial.SpatialStorageChunkGenerator@79db8ed1]
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/ae2/spatial_storage] --------
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Jul2026 08:10:46.679] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Jul2026 08:10:46.680] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Jul2026 08:10:46.687] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/MOD_KSYXIS]: Ksyxis: Speeding up the world loading... Delete the mod, if it got stuck after this message. (net.minecraft.server.dedicated.DedicatedServer prepareLevels)
+[10Jul2026 08:10:46.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Jul2026 08:10:46.706] [Thread-15/WARN] [SimpleLogin/]: A new update is available: 1.16.6 (you are on 1.16.5)
+[10Jul2026 08:10:46.706] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[10Jul2026 08:10:46.706] [Thread-15/WARN] [SimpleLogin/]: Download it at: https://modrinth.com/plugin/simple-login/version/1.16.6
+[10Jul2026 08:10:46.720] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 33 ms
+[10Jul2026 08:10:46.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.924s)! For help, type "help"
+[10Jul2026 08:10:46.783] [Thread-14/INFO] [gg.playit.minecraft.PlayitKeysSetup/]: secret verified, ready to connect
+[10Jul2026 08:10:46.783] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: keys setup complete, ready to connect
+[10Jul2026 08:10:46.943] [Thread-14/WARN] [gg.playit.control.ChannelSetup/]: Got IO error working with :/[2602:fbaf:860:1:0:0:0:1]:5525, error : java.net.SocketException: Network is unreachable
+[10Jul2026 08:10:47.051] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[10Jul2026 08:10:47.052] [Server thread/INFO] [Arclight/]: Forwarding forge permission[neoforge:default_handler] to bukkit
+[10Jul2026 08:10:47.093] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: request queued, waiting 1 second before resend
+[10Jul2026 08:10:47.113] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[10Jul2026 08:10:47.115] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@2b91507c for service interface journeymap.api.services.ClientPlatformService
+[10Jul2026 08:10:47.118] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@24b1db85 for service interface journeymap.api.services.CommonPlatformService
+[10Jul2026 08:10:47.156] [Server thread/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[10Jul2026 08:10:47.159] [Server thread/INFO] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: Saving restart status "EXCEPTION" to file
+[10Jul2026 08:10:47.184] [Server thread/INFO] [FTB Quests/]: Loading quests from /home/ubuntu/workspace/moddedsmp-data/moddedsmp100/config/ftbquests/quests
+[10Jul2026 08:10:47.190] [Server thread/INFO] [FTB Quests/]: loaded translation tables for 1 language(s)
+[10Jul2026 08:10:47.201] [Server thread/INFO] [FTB Quests/]: Loaded 1 chapter groups, 1 chapters, 1 quests, 0 reward tables
+[10Jul2026 08:10:47.219] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[10Jul2026 08:10:47.230] [Server thread/INFO] [integratedrest/]: Starting Integrated REST server...
+[10Jul2026 08:10:47.242] [Server thread/INFO] [integratedrest/]: Started Integrated REST server on http://localhost:3000/
+[10Jul2026 08:10:47.458] [Server thread/INFO] [journeymap/]: Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
+[10Jul2026 08:10:47.559] [Server thread/INFO] [integrateddynamics/]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[10Jul2026 08:10:47.902] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in lithium.mixins.json:collections.chunk_tickets.SortedArraySetMixin from mod lithium, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[10Jul2026 08:10:48.324] [Thread-14/INFO] [gg.playit.minecraft.PlayitManager/]: found minecraft java tunnel: communications-mr.gl.joinmc.link
+[10Jul2026 08:10:48.383] [Thread-14/INFO] [Console/]: playit.gg: tunnel setup
+[10Jul2026 08:10:48.383] [Thread-14/INFO] [Console/]: playit.gg: communications-mr.gl.joinmc.link
+[10Jul2026 08:10:50.014] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[10Jul2026 08:10:50.026] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[10Jul2026 08:10:50.026] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[10Jul2026 08:10:50.142] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 irons_spellbooks:paladin_chestplate, missing knowledge for {1 irons_spellbooks:priest_chestplate=1.0}
+[10Jul2026 08:10:50.142] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mekanism:free_runners_armored, missing knowledge for {1 mekanism:free_runners=1.0}
+[10Jul2026 08:10:50.142] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 simplyswords:righteous_relic, missing knowledge for {1 simplyswords:dormant_relic=1.0}
+[10Jul2026 08:10:50.142] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 irons_spellbooks:infernal_sorcerer_chestplate, missing knowledge for {1 irons_spellbooks:pyromancer_chestplate=1.0}
+[10Jul2026 08:10:50.143] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 98 milliseconds
+[10Jul2026 08:10:50.143] [Server thread/WARN] [ModernFix/]: Dedicated server took 82.721 seconds to load
+[10Jul2026 08:10:50.258] [Server thread/INFO] [gg.playit.minecraft.PlayitPipelineInjector/]: injected playit header decoder into server channel: [id: 0xfaadac3f, L:/[0:0:0:0:0:0:0:0%0]:25565]
+[10Jul2026 08:10:50.258] [Server thread/INFO] [gg.playit.minecraft.PlayitBukkit/]: playit header decoder injected into server pipeline
+[10Jul2026 08:10:50.556] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.arclight.impl.optimization.json:network.ChunkMapMixin_Optimize$TrackedEntityMixin from mod (unknown)->@Redirect::arclight$useFastUtilSet()Ljava/util/Set; with priority 1000, already redirected by lithium.mixins.json:alloc.entity_tracker.ChunkMap$TrackedEntityMixin from mod lithium->@Redirect::useFasterCollection()Ljava/util/Set; with priority 1000
+[10Jul2026 08:14:49.200] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[10Jul2026 08:18:50.016] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
