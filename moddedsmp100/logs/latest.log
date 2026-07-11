@@ -1029,3 +1029,7 @@
 [11Jul2026 16:46:27.690] [Server thread/INFO] [gg.playit.minecraft.PlayitBukkit/]: playit header decoder injected into server pipeline
 [11Jul2026 16:46:27.986] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.arclight.impl.optimization.json:network.ChunkMapMixin_Optimize$TrackedEntityMixin from mod (unknown)->@Redirect::arclight$useFastUtilSet()Ljava/util/Set; with priority 1000, already redirected by lithium.mixins.json:alloc.entity_tracker.ChunkMap$TrackedEntityMixin from mod lithium->@Redirect::useFasterCollection()Ljava/util/Set; with priority 1000
 [11Jul2026 16:50:26.480] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 16:54:27.277] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 16:58:01.487] [WebSocketWorker-84/INFO] [Minecraft/]: [MCWebBridge] Client connected: /[0:0:0:0:0:0:0:1]:41348
+[11Jul2026 16:58:28.077] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 16:58:59.090] [Server thread/INFO] [Console/]: [Web] hi
