@@ -1,13 +1,13 @@
-[17:45:46] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
-[17:45:46] [INIT] Loaded plugins:
-[17:45:46] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[17:45:46] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[17:45:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[17:45:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[17:45:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[17:45:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[17:45:46] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[17:45:46] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
-[17:45:46] [INFO] Loaded script startup_scripts:main.js in 0.04 s
-[17:45:46] [INFO] Loaded 1/1 KubeJS startup scripts in 0.536 s with 0 errors and 0 warnings
-[17:45:46] [INFO] Validated 0 files in kubejs/data/ in 1ms
+[18:56:17] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[18:56:17] [INIT] Loaded plugins:
+[18:56:17] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[18:56:17] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[18:56:17] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[18:56:17] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:56:17] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:56:17] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[18:56:17] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[18:56:17] [INFO] startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[18:56:17] [INFO] Loaded script startup_scripts:main.js in 0.081 s
+[18:56:17] [INFO] Loaded 1/1 KubeJS startup scripts in 0.58 s with 0 errors and 0 warnings
+[18:56:17] [INFO] Validated 0 files in kubejs/data/ in 0ms
