@@ -1,0 +1,24 @@
+websocket:
+  host: "0.0.0.0"
+  port: 8080
+
+security:
+  heartbeat-seconds: 30
+  max-connections: 50
+  login-timeout: 30
+
+console:
+  allow-commands: true
+  stream-output: true
+
+chat:
+  enable-web-chat: true
+  format: "[WEB] %player%: %message%"
+
+status:
+  update-interval: 20
+
+accounts:
+  admin:
+    password: "change_me"
+    role: ADMIN
