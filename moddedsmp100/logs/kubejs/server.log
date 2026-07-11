@@ -1,13 +1,13 @@
-[14:37:02] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
-[14:37:02] [INIT] Loaded plugins:
-[14:37:02] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
-[14:37:02] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[14:37:02] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[14:37:02] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[14:37:02] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[14:37:02] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[14:37:02] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[14:37:02] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
-[14:37:02] [INFO] Loaded script server_scripts:main.js in 0.001 s
-[14:37:02] [INFO] Loaded 1/1 KubeJS server scripts in 0.038 s with 0 errors and 0 warnings
-[14:37:17] [INFO] Server resource reload complete!
+[14:47:03] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[14:47:03] [INIT] Loaded plugins:
+[14:47:03] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[14:47:03] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[14:47:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[14:47:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[14:47:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[14:47:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[14:47:03] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[14:47:03] [INFO] server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[14:47:03] [INFO] Loaded script server_scripts:main.js in 0.001 s
+[14:47:03] [INFO] Loaded 1/1 KubeJS server scripts in 0.044 s with 0 errors and 0 warnings
+[14:47:20] [INFO] Server resource reload complete!
