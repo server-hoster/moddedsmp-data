@@ -1035,3 +1035,9 @@
 [11Jul2026 16:39:07.830] [WebSocketWorker-85/INFO] [Minecraft/]: [MCWebBridge] Client connected: /[0:0:0:0:0:0:0:1]:59396
 [11Jul2026 16:39:07.969] [WebSocketWorker-84/INFO] [Minecraft/]: [MCWebBridge] Client connected: /[0:0:0:0:0:0:0:1]:59398
 [11Jul2026 16:39:08.615] [WebSocketWorker-85/INFO] [Minecraft/]: [MCWebBridge] Client connected: /[0:0:0:0:0:0:0:1]:59406
+[11Jul2026 16:40:40.625] [WebSocketSelector-86/INFO] [Minecraft/]: [MCWebBridge] Client disconnected
+[11Jul2026 16:40:44.905] [WebSocketWorker-84/INFO] [Minecraft/]: [MCWebBridge] Client connected: /[0:0:0:0:0:0:0:1]:35244
+[11Jul2026 16:40:49.432] [connectionLostChecker-1/INFO] [Minecraft/]: [MCWebBridge] Client disconnected
+[11Jul2026 16:40:49.432] [connectionLostChecker-1/INFO] [Minecraft/]: [MCWebBridge] Client disconnected
+[11Jul2026 16:40:49.432] [connectionLostChecker-1/INFO] [Minecraft/]: [MCWebBridge] Client disconnected
+[11Jul2026 16:40:49.432] [connectionLostChecker-1/INFO] [Minecraft/]: [MCWebBridge] Client disconnected
