@@ -1044,3 +1044,31 @@
 [11Jul2026 18:30:32.466] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [11Jul2026 18:34:33.266] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
 [11Jul2026 18:38:34.066] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 18:42:34.866] [Thread-17/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 18:45:03.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jul2026 18:45:03.794] [Server thread/INFO] [integratedrest/]: Stopping Integrated REST server...
+[11Jul2026 18:45:07.807] [Server thread/INFO] [integratedrest/]: Stopped Integrated REST server
+[11Jul2026 18:45:07.813] [Server thread/INFO] [com.github.jarva.arsadditions.ArsAdditions/]: Shutting down locating executor service
+[11Jul2026 18:45:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jul2026 18:45:07.826] [Server thread/INFO] [SimpleLogin/]: Disabling SimpleLogin v1.16.5
+[11Jul2026 18:45:07.832] [Server thread/INFO] [playit-gg/]: Disabling playit-gg v0.2.0
+[11Jul2026 18:45:07.834] [Server thread/INFO] [MCWebBridge/]: Disabling MCWebBridge v1.0
+[11Jul2026 18:45:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jul2026 18:45:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jul2026 18:45:07.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jul2026 18:45:08.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[11Jul2026 18:45:08.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[11Jul2026 18:45:08.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/deeperdarker/otherside]'/deeperdarker:otherside
+[11Jul2026 18:45:08.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[11Jul2026 18:45:08.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/irons_spellbooks/pocket_dimension]'/irons_spellbooks:pocket_dimension
+[11Jul2026 18:45:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/ae2/spatial_storage]'/ae2:spatial_storage
+[11Jul2026 18:45:08.163] [Server thread/INFO] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: Saving restart status "STOP" to file
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: java.lang.IllegalStateException: Cannot get config value before config is loaded.
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.base.Preconditions.checkState(Preconditions.java:512)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at TRANSFORMER/neoforge@21.1.228/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1235)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at TRANSFORMER/neoforge@21.1.228/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1222)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at TRANSFORMER/auto_restart@3.0.1/de.geheimagentnr1.auto_restart.config.ServerConfig.getOnEmptyRestartEnabled(ServerConfig.java:265)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at TRANSFORMER/auto_restart@3.0.1/de.geheimagentnr1.auto_restart.task.AutoRestartTask.run(AutoRestartTask.java:61)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at java.base/java.util.TimerThread.mainLoop(Timer.java:566)
+[11Jul2026 18:45:08.216] [Timer-0/ERROR] [STDERR/]: 	at java.base/java.util.TimerThread.run(Timer.java:516)
+[11Jul2026 18:45:08.376] [Thread-17/INFO] [gg.playit.minecraft.PlayitManager/]: control channel shutdown
