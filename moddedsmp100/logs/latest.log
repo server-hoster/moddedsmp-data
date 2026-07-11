@@ -1054,3 +1054,5 @@ Caused by: java.lang.ClassNotFoundException: Plugin MCWebBridge cannot load clas
 [11Jul2026 13:47:33.614] [Server thread/INFO] [gg.playit.minecraft.PlayitPipelineInjector/]: injected playit header decoder into server channel: [id: 0xe566c1c7, L:/[0:0:0:0:0:0:0:0%0]:25565]
 [11Jul2026 13:47:33.614] [Server thread/INFO] [gg.playit.minecraft.PlayitBukkit/]: playit header decoder injected into server pipeline
 [11Jul2026 13:47:33.928] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping mixins.arclight.impl.optimization.json:network.ChunkMapMixin_Optimize$TrackedEntityMixin from mod (unknown)->@Redirect::arclight$useFastUtilSet()Ljava/util/Set; with priority 1000, already redirected by lithium.mixins.json:alloc.entity_tracker.ChunkMap$TrackedEntityMixin from mod lithium->@Redirect::useFasterCollection()Ljava/util/Set; with priority 1000
+[11Jul2026 13:51:32.656] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
+[11Jul2026 13:55:33.481] [Thread-14/INFO] [gg.playit.control.ChannelSetup/]: send keep alive
