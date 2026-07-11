@@ -20,5 +20,5 @@ status:
 
 accounts:
   admin:
-    password: "change_me"
+    password: "s-superadmin123"
     role: ADMIN
